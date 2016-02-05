@@ -63,5 +63,22 @@
           type="application/octet-stream"
           sparkle:dsaSignature="MC4CFQC0RtD8s3L6ovw6KOQmMtzgROnNNwIVAK6xXahXt5oyehKKRO4vLrhouY3r" />
       </item>
+      <item>
+          <title>Version 0.10.3</title>
+          <description>
+              <![CDATA[
+                  <ul>
+                  <li>Bugfixes</li>
+                  </ul>
+              ]]>
+          </description>
+          <pubDate>Tue, 02 Feb 2016 20:15:11 +0000</pubDate>
+          <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.10.3.zip"
+          sparkle:version="1714"
+          sparkle:shortVersionString="0.10.3"
+          length="3254404"
+          type="application/octet-stream"
+          sparkle:dsaSignature="MC0CFAQvKLuw50ZQTCpKakePwjiW5wD3AhUAy8llEQ40ffIsW2zTOAc4Hy95MAg=" />
+      </item>
   </channel>
 </rss>

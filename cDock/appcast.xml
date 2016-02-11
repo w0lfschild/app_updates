@@ -38,13 +38,35 @@
                   </ul>
               ]]>
           </description>
-          <pubDate>Tue, 05 Feb 2016 13:37:11 +0000</pubDate>
+          <pubDate>Tue, 05 Feb 2016 13:37:00 +0000</pubDate>
           <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.10.3.zip"
           sparkle:version="1714"
           sparkle:shortVersionString="0.10.3"
           length="3254404"
           type="application/octet-stream"
           sparkle:dsaSignature="MC0CFAQvKLuw50ZQTCpKakePwjiW5wD3AhUAy8llEQ40ffIsW2zTOAc4Hy95MAg=" />
+      </item>
+      <item>
+          <title>Version 0.10.4</title>
+          <description>
+              <![CDATA[
+                  <ul>
+                  <li>Icon reflections update when app icon changes</li>
+                  <li>Fix issue where icon reflection could disappear after bouncing</li>
+                  <li>Fix icon height issue</li>
+                  <li>Updated sparkle framework</li>
+                  <li>Bugfixes</li>
+                  <li>Removed old updater (reduced size)</li>
+                  </ul>
+              ]]>
+          </description>
+          <pubDate>Wed, 10 Feb 2016 22:54:00 +0000</pubDate>
+          <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.10.4.zip"
+          sparkle:version="1728"
+          sparkle:shortVersionString="0.10.4"
+          length="2702124"
+          type="application/octet-stream"
+          sparkle:dsaSignature="MC0CFESgYB+aACnihwc/OBtNCcHy4hl6AhUAtjTJo86ErBBqc5ljHJ1s9z4uGdI=" />
       </item>
   </channel>
 </rss>

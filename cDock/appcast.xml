@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>cDock Changelog</title>
-    <link>https://github.com/w0lfschild/cdock2/raw/master/release/appcast.xml</link>
+    <link>https://github.com/w0lfschild/app_updates/raw/master/cDock/appcast.xml</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>

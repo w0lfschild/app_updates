@@ -68,9 +68,9 @@
         <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.1.4.zip"
                    sparkle:version="1"
                    sparkle:shortVersionString="0.1.4"
-                   length="2908230"
+                   length="2923831"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MCwCFGPOmzhM95Fv5rLRiilTgFH4EhOSAhRWn5FNwycvEJ9mSJUxvPTNPFU8Yg==" />
+                   sparkle:dsaSignature="MCwCFEbEhw9avS6Dp8Y8n1BkTe8EyqpeAhQZ3hRbP5sWojzHzj76rpGieGjvlQ==" />
       </item>
   </channel>
 </rss>

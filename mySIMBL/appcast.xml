@@ -6,21 +6,55 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.2.0</title>
+        <title>Version 0.1.4</title>
         <description>
           <![CDATA[
             <ul>
-                <li>Merge cDock agent and cDock installer</li>
+            <li>0.1.4</li>
+            <ul>
+            <li>UI adjustments</li>
+            <li>Inject into apps button</li>
+            <li>Preferences mostly complete</li>
+            <li>Delete bundle requires two clicks</li>
+            </ul>
+            
+            0.1.3
+            
+            •	Automatic updates via sparkle
+            •	UI Adjustments
+            •	Delete bundle (Trash can)
+            
+            0.1.2
+            
+            •	System Integrity Protection warning
+            •	Helper agent
+            •	Inject into specified system apps
+            •	Offers to move self to /Applications
+            •	Drag and drop install bundles in /Library/Application Support/SIMBL/Plugins
+            •	Open bundles with app to install in /Library/Application Support/SIMBL/Plugins
+            •	Show bundle in Finder (Magnifying Glass)
+            •	Toggle bundles between (Colored Circle Icon)
+            ⁃	/Library/Application Support/SIMBL/Plugins
+            ⁃	/Library/Application Support/SIMBL/Plugins (Disabled)
+            ⁃	~/Library/Application Support/SIMBL/Plugins
+            •	Bundles will display custom icon if located in <bundle>/Contents/icon.icns
+            ⁃	Otherwise bundles display default bundle icon
+            ▪	Show bundle developer page (Globe Icon)
+            ⁃	Must have url included in <bundle>/Contents/Info.plist
+            ⁃	plist value is string 'DevURL'
+            •	Watch for changes to
+            ⁃	/Library/Application Support/SIMBL/Plugins
+            ⁃	~/Library/Application Support/SIMBL/Plugins
             </ul>
           ]]>
         </description>
-        <pubDate>Sun, 31 Jan 2016 22:24:11 +0000</pubDate>
-        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.10.1.zip"
-                   sparkle:version="1707"
-                   sparkle:shortVersionString="0.2.0"
-                   length="3039037"
+        <pubDate>Sat, 28 Feb 2016 00:24:11 +0000</pubDate>
+        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.1.4.zip"
+                   sparkle:version="1"
+                   sparkle:shortVersionString="0.1.4"
+                   length="2914143"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MCwCFFG+vCNbdpJblyfW2LjtgIKZ21rcAhQCasR5O/FwVAHK+qlN1SxG6LpSNA==" />
+                   sparkle:dsaSignature="MCwCFBbz4FTQT5nKAC8sEy0lgai+nLToAhR6ynqCSpXikZO/h83LSdYa/FRbCw==" />
       </item>
   </channel>
 </rss>

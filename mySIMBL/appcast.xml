@@ -10,7 +10,9 @@
         <description>
           <![CDATA[
             <ul>
+            
             <li>0.1.4</li>
+            
             <ul>
             <li>UI adjustments</li>
             <li>Inject into apps button</li>
@@ -18,33 +20,47 @@
             <li>Delete bundle requires two clicks</li>
             </ul>
             
-            0.1.3
+            <li>0.1.3</li>
             
-            •	Automatic updates via sparkle
-            •	UI Adjustments
-            •	Delete bundle (Trash can)
+            <ul>
+            <li>Automatic updates via sparkle</li>
+            <li>UI Adjustments</li>
+            <li>Delete bundle (Trash can)</li>
+            </ul>
             
-            0.1.2
+            <li>0.1.2</li>
             
-            •	System Integrity Protection warning
-            •	Helper agent
-            •	Inject into specified system apps
-            •	Offers to move self to /Applications
-            •	Drag and drop install bundles in /Library/Application Support/SIMBL/Plugins
-            •	Open bundles with app to install in /Library/Application Support/SIMBL/Plugins
-            •	Show bundle in Finder (Magnifying Glass)
-            •	Toggle bundles between (Colored Circle Icon)
-            ⁃	/Library/Application Support/SIMBL/Plugins
-            ⁃	/Library/Application Support/SIMBL/Plugins (Disabled)
-            ⁃	~/Library/Application Support/SIMBL/Plugins
-            •	Bundles will display custom icon if located in <bundle>/Contents/icon.icns
-            ⁃	Otherwise bundles display default bundle icon
-            ▪	Show bundle developer page (Globe Icon)
-            ⁃	Must have url included in <bundle>/Contents/Info.plist
-            ⁃	plist value is string 'DevURL'
-            •	Watch for changes to
-            ⁃	/Library/Application Support/SIMBL/Plugins
-            ⁃	~/Library/Application Support/SIMBL/Plugins
+            <ul>
+            <li>System Integrity Protection warning</li>
+            <li>Helper agent</li>
+            <li>Inject into specified system apps</li>
+            <li>Offers to move self to /Applications</li>
+            <li>Drag and drop install bundles in /Library/Application Support/SIMBL/Plugins</li>
+            <li>Open bundles with app to install in /Library/Application Support/SIMBL/Plugins</li>
+            <li>Show bundle in Finder (Magnifying Glass)</li>
+            <li>Bundles will display custom icon if located in <bundle>/Contents/icon.icns</li>
+            
+            <li>Toggle bundles between (Colored Circle Icon)</li>
+            <ul>
+            <li>/Library/Application Support/SIMBL/Plugins</li>
+            <li>/Library/Application Support/SIMBL/Plugins (Disabled)</li>
+            <li>~/Library/Application Support/SIMBL/Plugins</li>
+            </ul>
+            
+            <li>Show bundle developer page (Globe Icon)</li>
+            <ul>
+            <li>Must have url included in <bundle>/Contents/Info.plist</li>
+            <li>plist value is string 'DevURL'</li>
+            </ul>
+            
+            <li>Watch for changes to</li>
+            <ul>
+            <li>/Library/Application Support/SIMBL/Plugins</li>
+            <li>~/Library/Application Support/SIMBL/Plugins</li>
+            </ul>
+            
+            </ul>
+            
             </ul>
           ]]>
         </description>

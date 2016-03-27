@@ -6,10 +6,17 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.1.4</title>
+        <title>Version 0.2.0</title>
         <description>
           <![CDATA[
             <ul>
+            <li>0.2.0</li>
+            
+            <ul>
+            <li>Sources View</li>
+            <li>UI adjustments</li>
+            <li>New Stuff</li>
+            </ul>
             
             <li>0.1.4</li>
             
@@ -66,11 +73,11 @@
         </description>
         <pubDate>Sat, 28 Feb 2016 00:24:11 +0000</pubDate>
         <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.1.4.zip"
-                   sparkle:version="4"
-                   sparkle:shortVersionString="0.1.4"
-                   length="2880752"
+                   sparkle:version="11"
+                   sparkle:shortVersionString="0.2.0"
+                   length="1827297"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MCwCFEkqgwqVKI2+2pY9V0sCs8sjKCr1AhRRpGj8qXpmtVgNmxwqvWAFJ1wpEg==" />
+                   sparkle:dsaSignature="MC4CFQDKw7kLUIuu+N3Pvcv5Xo/fwHBw7wIVAI5GiAUSY6iozadaKA+2a34JpOXx" />
       </item>
   </channel>
 </rss>

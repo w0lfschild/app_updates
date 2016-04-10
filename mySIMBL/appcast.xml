@@ -9,6 +9,15 @@
         <title>Version 0.2.0</title>
         <description>
           <![CDATA[
+              <ul>
+              <li>0.2.1</li>
+              
+              <ul>
+              <li>Add / Remove sources</li>
+              <li>Better bundle pages</li>
+              <li>Repo packages sorted alphabetically</li>
+              </ul>
+              
             <ul>
             <li>0.2.0</li>
             
@@ -17,6 +26,9 @@
             <li>UI adjustments</li>
             <li>New Stuff</li>
             </ul>
+            
+            
+            <li>0.1.6</li>
             
             <li>0.1.4</li>
             
@@ -71,13 +83,13 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Sat, 28 Feb 2016 00:24:11 +0000</pubDate>
-        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.1.4.zip"
-                   sparkle:version="11"
-                   sparkle:shortVersionString="0.2.0"
-                   length="1827297"
+        <pubDate>Sun, 27 Mar 2016 00:24:11 +0000</pubDate>
+        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.2.1.zip"
+                   sparkle:version="12"
+                   sparkle:shortVersionString="0.2.1"
+                   length="1828371"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MC4CFQDKw7kLUIuu+N3Pvcv5Xo/fwHBw7wIVAI5GiAUSY6iozadaKA+2a34JpOXx" />
+                   sparkle:dsaSignature="MC0CFBX3hFG/7U45Gu/ghk6c/GoDe7jbAhUAvigfyyhw7LED/vXF09T9jbwb4LI=" />
       </item>
   </channel>
 </rss>

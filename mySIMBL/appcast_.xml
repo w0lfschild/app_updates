@@ -6,20 +6,12 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.2.5</title>
+        <title>Version 0.2.1</title>
         <description>
           <![CDATA[
             <ul>
-                <li>0.2.5</li>
-                
-                <ul>
-                    <li>Add / Remove sources</li>
-                    <li>Better bundle pages</li>
-                    <li>Repo packages sorted alphabetically</li>
-                </ul>
-
                 <li>0.2.1</li>
-                
+                  
                 <ul>
                     <li>Add / Remove sources</li>
                     <li>Better bundle pages</li>
@@ -85,13 +77,13 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Sat, 07 May 2016 00:24:11 +0000</pubDate>
+        <pubDate>Sun, 01 May 2016 00:24:11 +0000</pubDate>
         <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.2.1.zip"
-                   sparkle:version="15"
-                   sparkle:shortVersionString="0.2.5"
-                   length="2545472"
+                   sparkle:version="12"
+                   sparkle:shortVersionString="0.2.1"
+                   length="1828371"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MCwCFCzbAtYEq5onTPV1MjLOc4Af5RBfAhRgQ9rVd6CnzjwuUer/r4HltqNRyA==" />
+                   sparkle:dsaSignature="MC0CFBX3hFG/7U45Gu/ghk6c/GoDe7jbAhUAvigfyyhw7LED/vXF09T9jbwb4LI=" />
       </item>
   </channel>
 </rss>

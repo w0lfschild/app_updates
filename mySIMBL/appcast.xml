@@ -13,9 +13,13 @@
                 <li>0.2.5</li>
                 
                 <ul>
-                    <li>Add / Remove sources</li>
-                    <li>Better bundle pages</li>
-                    <li>Repo packages sorted alphabetically</li>
+                    <li>Code Signed</li>
+                    <li>Better repo refreshing</li>
+                    <li>New Icon</li>
+                    <li>UI Adjustments</li>
+                    <li>Updated PFMoveApplication</li>
+                    <li>Updated INAppStoreWindow</li>
+                    <li>Updated Sparkle</li>
                 </ul>
 
                 <li>0.2.1</li>

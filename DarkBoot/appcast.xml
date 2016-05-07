@@ -6,12 +6,23 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 4.0.5</title>
+        <title>Version 4.0.6</title>
         <description>
           <![CDATA[
             <ul>
+                <li>4.0.6</li>
+                
+                <ul>
+                    <li>Code Signed</li>
+                    <li>Default, Black and Gray options</li>
+                    <li>Asks to move to /Applications</li>
+                    <li>Warnings about System Integrity Protection</li>
+                    <li>Bug Fixes</li>
+                    <li>New Icon</li>
+                </ul>
+            
                 <li>4.0.5</li>
-                  
+                
                 <ul>
                     <li>New method for editing boot color</li>
                     <li>Boot color can new be any color</li>
@@ -19,17 +30,16 @@
                     <li>Sparkle updates</li>
                     <li>Bug Fixes</li>
                 </ul>
-                
             </ul>
           ]]>
         </description>
-        <pubDate>Sat, 16 Apr 2016 00:24:11 +0000</pubDate>
-        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/DarkBoot/DarkBoot_4.0.5.zip"
-                   sparkle:version="105"
-                   sparkle:shortVersionString="4.0.5"
-                   length="2333385"
+        <pubDate>Sat, 07 May 2016 00:24:11 +0000</pubDate>
+        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/DarkBoot/DarkBoot_4.0.6.zip"
+                   sparkle:version="106"
+                   sparkle:shortVersionString="4.0.6"
+                   length="2251518"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MCwCFEp6NPPbjcZ34VUlWt+2MdyfytRxAhQ7VDdD7UnYgDe5Z34jz6+MX18dow==" />
+                   sparkle:dsaSignature="MC0CFArazec/xNr86Pkik8U4xKjex7k/AhUAry0wIIkAS7aiV93JPdQ9YGlOdRE=" />
       </item>
   </channel>
 </rss>

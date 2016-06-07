@@ -6,10 +6,22 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.2.5</title>
+        <title>Version 0.2.6</title>
         <description>
           <![CDATA[
             <ul>
+                <li>0.2.6</li>
+                
+                <ul>
+                    <li>New Icon</li>
+                    <li>Much faster directory updates</li>
+                    <li>Scan for Parasite bundles</li>
+                    <li>Better version checking bundle updates</li>
+                    <li>Altered tabs</li>
+                    <li>Code sign fix</li>
+                    <li>Bug fixes</li>
+                </ul>
+            
                 <li>0.2.5</li>
                 
                 <ul>
@@ -90,12 +102,12 @@
           ]]>
         </description>
         <pubDate>Sat, 07 May 2016 00:24:11 +0000</pubDate>
-        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.2.5.zip"
-                   sparkle:version="15"
-                   sparkle:shortVersionString="0.2.5"
-                   length="2571021"
+        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.2.6.zip"
+                   sparkle:version="17"
+                   sparkle:shortVersionString="0.2.6"
+                   length="2311969"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MC0CFEqxVH8Qsrs6VQxICORMnCAK6BP+AhUArzZPOFRHSjw9GrlepcW2mvTUD3c=" />
+                   sparkle:dsaSignature="MCwCFGvlpgFCnXlQCfMbcfndTwJ/qIz+AhRu/xnlwlSK7yOapshA/kCYiPxPXQ==" />
       </item>
   </channel>
 </rss>

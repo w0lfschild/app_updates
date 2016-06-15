@@ -6,7 +6,7 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-          <title>Version 0.11.2</title>
+          <title>Version 0.11.3</title>
           <description>
               <![CDATA[
                   <ul>
@@ -30,12 +30,12 @@
               ]]>
           </description>
           <pubDate>Sat, 07 Apr 2016 13:37:00 +0000</pubDate>
-          <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.11.2.zip"
-          sparkle:version="1781"
-          sparkle:shortVersionString="0.11.2"
-          length="2464261"
+          <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.11.3.zip"
+          sparkle:version="2126"
+          sparkle:shortVersionString="0.11.3"
+          length="2743255"
           type="application/octet-stream"
-          sparkle:dsaSignature="MC4CFQDEraQSVqJDRTYRKP9CtjTSP0y1bQIVAKyInPN088hlo1FESBus9iY7A6Iy" />
+          sparkle:dsaSignature="MC0CFQCgjR43yoSqVsZqGVadG4GTRO6HFAIUWzQ5LDAYQwZ9Xm6lj/YHnLM1soo=" />
       </item>
   </channel>
 </rss>

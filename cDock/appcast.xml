@@ -10,22 +10,20 @@
           <description>
               <![CDATA[
                   <ul>
-                      <li>Code Signed</li>
-                      <li>Code Clean up</li>
-                      <li>Updated UI</li>
-                      <ul>
-                          <li>New theming tab layout</li>
-                          <li>New about tab layout</li>
-                          <li>New Donate button</li>
-                          <li>Moved some items from prefs > about</li>
-                          <li>Removed cDock2 banner</li>
-                          <li>Altered tabs</li>
-                      </ul>
-                      <li>Removed blur window preference</li>
-                      <li>Update interval setting</li>
-                      <li>Startup tab setting</li>
+                      <li>Update SIMBL.osax for 10.12</li>
+                          <ul>
+                              <li>Requires SIP disable on 10.11+</li>
+                              <li>Updated syntax for injecting osascript -e 'tell application <appname> to inject SIMBL'</li>
+                              <li>Shared framework for helper and app</li>
+                          </ul>
+                      <li>Helper improvements</li>
+                      <li>Better version checking</li>
+                      <li>New color picker</li>
+                      <li>Fix about page buttons doing nothing</li>
+                      <li>Fix indicator icon overlapping application icon</li>
+                      <li>Improved helper</li>
+                      <li>Fixed some Xcode warnings</li>
                       <li>Bugfixes</li>
-                      <li>Reduced app size</li>
                   </ul>
               ]]>
           </description>

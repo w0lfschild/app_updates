@@ -6,10 +6,19 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.2.6</title>
+        <title>Version 0.3.0</title>
         <description>
           <![CDATA[
             <ul>
+                <li>0.3.0</li>
+                
+                <ul>
+                    <li>macOS 10.12 Sierra support</li>
+                    <li>Improved Agent</li>
+                    <li>UI Adjustments</li>
+                    <li>Bug fixes</li>
+                </ul>
+            
                 <li>0.2.6</li>
                 
                 <ul>
@@ -102,12 +111,12 @@
           ]]>
         </description>
         <pubDate>Sat, 07 May 2016 00:24:11 +0000</pubDate>
-        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.2.6.zip"
-                   sparkle:version="17"
-                   sparkle:shortVersionString="0.2.6"
-                   length="2311983"
+        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.3.0.zip"
+                   sparkle:version="20"
+                   sparkle:shortVersionString="0.3.0"
+                   length="2300882"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MCwCFBKWHMpfJ/YQuDrL25UE1FJlA5y/AhQwMrDY1QA28YUKuxQ9eHCvPjY2bA==" />
+                   sparkle:dsaSignature="MC0CFQCG1JX8Ux0ah2Ke3NnLwE6dVSdRJQIUYEj0yioIXeyMMNnENjBSGX1lpHc=" />
       </item>
   </channel>
 </rss>

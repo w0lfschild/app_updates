@@ -6,16 +6,36 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.3.0</title>
+        <title>Version 0.3.1</title>
         <description>
           <![CDATA[
             <ul>
+                <li>0.3.1</li>
+                
+                <ul>
+                    <li>Fix SIMBLAgent crashing on 10.11 and below</li>
+                    <li>Fix sources view navigation not working properly on 10.9</li>
+                    <li>Fix missing sdef file in osax</li>
+                    <li>Bug fixes</li>
+                </ul>
+            
                 <li>0.3.0</li>
                 
                 <ul>
                     <li>macOS 10.12 Sierra support</li>
-                    <li>Improved Agent</li>
-                    <li>UI Adjustments</li>
+                    <li>SIMBL Agent updated</li>
+                    <ul>
+                        <li>SIMBL Agent moved to /Library/Application Support/SIMBL</li>
+                        <li>Injects into root applications (Dock, Finder, Spotlight, etc)</li>
+                        <li>Injects into apps that loaded before itself</li>
+                    </ul>
+                    <li>Warning dialog for SIMBL updates</li>
+                    <li>Warning dialog for System Integrity Protection</li>
+                    <li>SIMBL updates handled by main app instead of helper</li>
+                    <li>UI adjustments</li>
+                    <li>Removed WAYAppStoreWindow</li>
+                    <li>Fixed not being able to toggle plugin if folder didn't exist</li>
+                    <li>Fix admin script not running on 10.12</li>
                     <li>Bug fixes</li>
                 </ul>
             
@@ -37,7 +57,7 @@
                     <li>Code Signed</li>
                     <li>Better repo refreshing</li>
                     <li>New Icon</li>
-                    <li>UI Adjustments</li>
+                    <li>UI adjustments</li>
                     <li>Updated PFMoveApplication</li>
                     <li>Updated INAppStoreWindow</li>
                     <li>Updated Sparkle</li>
@@ -62,6 +82,10 @@
                 
                 <li>0.1.6</li>
                 
+                <ul>
+                    <li>UI adjustments</li>
+                </ul>
+                
                 <li>0.1.4</li>
                 
                 <ul>
@@ -75,7 +99,7 @@
                 
                 <ul>
                     <li>Automatic updates via sparkle</li>
-                    <li>UI Adjustments</li>
+                    <li>UI adjustments</li>
                     <li>Delete bundle (Trash can)</li>
                 </ul>
                 
@@ -110,13 +134,13 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Sat, 07 May 2016 00:24:11 +0000</pubDate>
-        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.3.0.zip"
-                   sparkle:version="20"
-                   sparkle:shortVersionString="0.3.0"
-                   length="2300882"
+        <pubDate>Wed, 03 Aug 2016 00:00:01 +0000</pubDate>
+        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.3.1.zip"
+                   sparkle:version="21"
+                   sparkle:shortVersionString="0.3.1"
+                   length="2281497"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MC0CFQCG1JX8Ux0ah2Ke3NnLwE6dVSdRJQIUYEj0yioIXeyMMNnENjBSGX1lpHc=" />
+                   sparkle:dsaSignature="MCwCFDRG390wF2XiJzFa4vjvbVXXJ7xbAhQWXXmDVkqTh1iHPbl/XbVLwH6GGw==" />
       </item>
   </channel>
 </rss>

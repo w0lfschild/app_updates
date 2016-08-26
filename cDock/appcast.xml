@@ -6,36 +6,21 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.11.2</title>
+            <title>Version 0.11.4</title>
             <description>
                 <![CDATA[
                     <ul>
-                    <li>Code Signed</li>
-                    <li>Code Clean up</li>
-                    <li>Updated UI</li>
-                    <ul>
-                    <li>New theming tab layout</li>
-                    <li>New about tab layout</li>
-                    <li>New Donate button</li>
-                    <li>Moved some items from prefs > about</li>
-                    <li>Removed cDock2 banner</li>
-                    <li>Altered tabs</li>
-                    </ul>
-                    <li>Removed blur window preference</li>
-                    <li>Update interval setting</li>
-                    <li>Startup tab setting</li>
-                    <li>Bugfixes</li>
-                    <li>Reduced app size</li>
+                    <li>10.12 support</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>Sat, 07 Apr 2016 13:37:00 +0000</pubDate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.11.2.zip"
-            sparkle:version="1781"
-            sparkle:shortVersionString="0.11.2"
-            length="2464261"
+            <pubDate>Fri, 26 Aug 2016 00:00:01 +0000</pubDate>
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.11.4.zip"
+            sparkle:version="1831"
+            sparkle:shortVersionString="0.11.4"
+            length="2474720"
             type="application/octet-stream"
-            sparkle:dsaSignature="MC4CFQDEraQSVqJDRTYRKP9CtjTSP0y1bQIVAKyInPN088hlo1FESBus9iY7A6Iy" />
+            sparkle:dsaSignature="MCwCFDqkKTP70KKvK35YCZYIXGBfdMWeAhR4cJByGGgfKHrPhMSJlbk3xoWJPQ==" />
         </item>
     </channel>
 </rss>

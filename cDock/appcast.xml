@@ -6,21 +6,22 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.11.4</title>
+            <title>Version 0.12.1</title>
             <description>
                 <![CDATA[
                     <ul>
                     <li>10.12 support</li>
+                    <li>Bug fixes</li>
                     </ul>
                 ]]>
             </description>
             <pubDate>Fri, 26 Aug 2016 00:00:01 +0000</pubDate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.11.4.zip"
-            sparkle:version="1831"
-            sparkle:shortVersionString="0.11.4"
-            length="2474720"
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.12.1.zip"
+            sparkle:version="4011"
+            sparkle:shortVersionString="0.12.1"
+            length="2415274"
             type="application/octet-stream"
-            sparkle:dsaSignature="MCwCFDqkKTP70KKvK35YCZYIXGBfdMWeAhR4cJByGGgfKHrPhMSJlbk3xoWJPQ==" />
+            sparkle:dsaSignature="MC0CFCqaf/V8BrziQ9yrLFWMxm1sPVptAhUAidv28EkHYp94+PJVxCWSIcqeAyw=" />
         </item>
     </channel>
 </rss>

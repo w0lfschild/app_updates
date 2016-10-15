@@ -15,10 +15,10 @@
                     </ul>
                 ]]>
             </description>
-            <pubDate>Fri Oct 14 20:27:52 PDT 2016</pubDate>
+            <pubDate>Fri, 26 Aug 2016 00:00:01 +0000</pubDate>
             <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.12.4.zip"
-            sparkle:version="0.12.4"
-            sparkle:shortVersionString="4039"
+            sparkle:version="4039"
+            sparkle:shortVersionString="0.12.4"
             length="2325639"
             type="application/octet-stream"
             sparkle:dsaSignature="MCwCFCR8WtHtvOq5DKnqItW3uIhMh6CNAhQHrVPPQzJcjUo9TX336SYeqADUUg==" />

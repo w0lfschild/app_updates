@@ -41,12 +41,12 @@ if [[ "$1" != "" ]]; then
 
 	# Update appcast
 	pubDate=$(date)
-	# sed -i -e "s/.*pubDate.*/            <pubDate>$pubDate<\/pubDate>/" "$appCast"
-	# sed -i -e "s/.*enclosure.*/            <enclosure url=\"https:\/\/github.com\/w0lfschild\/app_updates\/raw\/master\/cDock\/$resFile\"/" "$appCast"
-	# sed -i -e "s/.*sparkle:version=.*/            sparkle:version=\"$vernum\"/" "$appCast"
-	# sed -i -e "s/.*sparkle:shortVersionString=.*/            sparkle:shortVersionString=\"$verlon\"/" "$appCast"
-	# sed -i -e "s/.*length=.*/            length=\"$mySize\"/" "$appCast"
-	# sed -i -e "s/.*sparkle:dsaSignature=.*/            sparkle:dsaSignature=\"$myHash\" \/>/" "$appCast"
+	sed -i -e "s/.*pubDate.*/            <pubDate>$pubDate<\/pubDate>/" "$appCast"
+	sed -i -e "s/.*enclosure.*/            <enclosure url=\"https:\/\/github.com\/w0lfschild\/app_updates\/raw\/master\/cDock\/$resFile\"/" "$appCast"
+	sed -i -e "s/.*sparkle:version=.*/            sparkle:version=\"$vernum\"/" "$appCast"
+	sed -i -e "s/.*sparkle:shortVersionString=.*/            sparkle:shortVersionString=\"$verlon\"/" "$appCast"
+	sed -i -e "s/.*length=.*/            length=\"$mySize\"/" "$appCast"
+	sed -i -e "s/.*sparkle:dsaSignature=.*/            sparkle:dsaSignature=\"$myHash\" \/>/" "$appCast"
 
 	# open -e "$appCast"
 

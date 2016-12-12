@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>mySIMBL Changelog</title>
+    <link>https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.3.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+                <li>0.3.1</li>
+                
+                <ul>
+                    <li>Fix SIMBLAgent crashing on 10.11 and below</li>
+                    <li>Fix sources view navigation not working properly on 10.9</li>
+                    <li>Fix missing sdef file in osax</li>
+                    <li>Bug fixes</li>
+                </ul>
+            
+                <li>0.3.0</li>
+                
+                <ul>
+                    <li>macOS 10.12 Sierra support</li>
+                    <li>SIMBL Agent updated</li>
+                    <ul>
+                        <li>SIMBL Agent moved to /Library/Application Support/SIMBL</li>
+                        <li>Injects into root applications (Dock, Finder, Spotlight, etc)</li>
+                        <li>Injects into apps that loaded before itself</li>
+                    </ul>
+                    <li>Warning dialog for SIMBL updates</li>
+                    <li>Warning dialog for System Integrity Protection</li>
+                    <li>SIMBL updates handled by main app instead of helper</li>
+                    <li>UI adjustments</li>
+                    <li>Removed WAYAppStoreWindow</li>
+                    <li>Fixed not being able to toggle plugin if folder didn't exist</li>
+                    <li>Fix admin script not running on 10.12</li>
+                    <li>Bug fixes</li>
+                </ul>
+            
+                <li>0.2.6</li>
+                
+                <ul>
+                    <li>New Icon</li>
+                    <li>Much faster directory updates</li>
+                    <li>Scan for Parasite bundles</li>
+                    <li>Better version checking bundle updates</li>
+                    <li>Altered tabs</li>
+                    <li>Code sign fix</li>
+                    <li>Bug fixes</li>
+                </ul>
+            
+                <li>0.2.5</li>
+                
+                <ul>
+                    <li>Code Signed</li>
+                    <li>Better repo refreshing</li>
+                    <li>New Icon</li>
+                    <li>UI adjustments</li>
+                    <li>Updated PFMoveApplication</li>
+                    <li>Updated INAppStoreWindow</li>
+                    <li>Updated Sparkle</li>
+                </ul>
+
+                <li>0.2.1</li>
+                
+                <ul>
+                    <li>Add / Remove sources</li>
+                    <li>Better bundle pages</li>
+                    <li>Repo packages sorted alphabetically</li>
+                </ul>
+                  
+                <li>0.2.0</li>
+                
+                <ul>
+                    <li>Sources View</li>
+                    <li>UI adjustments</li>
+                    <li>New Stuff</li>
+                </ul>
+                
+                
+                <li>0.1.6</li>
+                
+                <ul>
+                    <li>UI adjustments</li>
+                </ul>
+                
+                <li>0.1.4</li>
+                
+                <ul>
+                    <li>UI adjustments</li>
+                    <li>Inject into apps button</li>
+                    <li>Preferences mostly complete</li>
+                    <li>Delete bundle requires two clicks</li>
+                </ul>
+                
+                <li>0.1.3</li>
+                
+                <ul>
+                    <li>Automatic updates via sparkle</li>
+                    <li>UI adjustments</li>
+                    <li>Delete bundle (Trash can)</li>
+                </ul>
+                
+                <li>0.1.2</li>
+                
+                <ul>
+                    <li>System Integrity Protection warning</li>
+                    <li>Helper agent</li>
+                    <li>Inject into specified system apps</li>
+                    <li>Offers to move self to /Applications</li>
+                    <li>Drag and drop install bundles in /Library/Application Support/SIMBL/Plugins</li>
+                    <li>Open bundles with app to install in /Library/Application Support/SIMBL/Plugins</li>
+                    <li>Show bundle in Finder (Magnifying Glass)</li>
+                    <li>Bundles will display custom icon if located in <bundle>/Contents/icon.icns</li>
+                    <li>Toggle bundles between (Colored Circle Icon)</li>
+                    <ul>
+                        <li>/Library/Application Support/SIMBL/Plugins</li>
+                        <li>/Library/Application Support/SIMBL/Plugins (Disabled)</li>
+                        <li>~/Library/Application Support/SIMBL/Plugins</li>
+                    </ul>
+                    <li>Show bundle developer page (Globe Icon)</li>
+                    <ul>
+                        <li>Must have url included in <bundle>/Contents/Info.plist</li>
+                        <li>plist value is string 'DevURL'</li>
+                    </ul>
+                    <li>Watch for changes to</li>
+                    <ul>
+                        <li>/Library/Application Support/SIMBL/Plugins</li>
+                        <li>~/Library/Application Support/SIMBL/Plugins</li>
+                    </ul>
+                </ul>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Wed, 03 Aug 2016 00:00:01 +0000</pubDate>
+        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.3.1.zip"
+                   sparkle:version="21"
+                   sparkle:shortVersionString="0.3.1"
+                   length="2281497"
+                   type="application/octet-stream"
+                   sparkle:dsaSignature="MCwCFDRG390wF2XiJzFa4vjvbVXXJ7xbAhQWXXmDVkqTh1iHPbl/XbVLwH6GGw==" />
+      </item>
+  </channel>
+</rss>

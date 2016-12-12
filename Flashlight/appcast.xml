@@ -8,12 +8,12 @@
         <item>
             <title>Version 1.0.4</title>
             <sparkle:releaseNotesLink>http://flashlightupdates.42pag.es/1.0.1</sparkle:releaseNotesLink>
-            <pubdate>Fri, 30 Mar 2015 20:27:11 +0000</pubdate>
+            <pubdate>Sat, 25 Jun 2015 20:27:11 +0000</pubdate>
             <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.4.zip"
                         sparkle:version="54"
                         sparkle:shortVersionString="1.0.4"
                         type="application/octet-stream"
-                        sparkle:dsaSignature="MC0CFDxpoUkHe/E9Qp3x/An6WZRYDgchAhUAkDfjeKuRd2mSLaTQ/Uodpfuef/A=">
+                        sparkle:dsaSignature="MC0CFBUgFU63WAeCR22zQqRinEVIlHgVAhUAmOWvbeNi9lgceyXZQo9PXYrt5ro=">
                 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
             </enclosure>
         </item>

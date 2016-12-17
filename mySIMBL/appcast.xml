@@ -6,10 +6,46 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.3.1</title>
+        <title>Version 0.4.1</title>
         <description>
           <![CDATA[
             <ul>
+                <li>0.4.1</li>
+                
+                <ul>
+                    <li>New  Updates tab</li>
+                    <ul>
+                        <li>Update all plugins</li>
+                        <li>Update individual plugins</li>
+                        <li>New repo packages.plist format</li>
+                    </ul>
+                    <li>New SIMBL tab</li>
+                    <ul>
+                        <li>Show SIMBL status</li>
+                        <li>Show SIMBLAgent status</li>
+                        <li>Show System Integrity Protection status</li>
+                        <li>SIMBL Blacklist</li>
+                        <li>SIMBL Logging options have moved here</li>
+                        <li>Load into all applications has moved here</li>
+                    </ul>
+                    <li>Sources tab</li>
+                    <ul>
+                        <li>Show checkmark for downloaded plugins (enabled and disabled)</li>
+                        <li>Improved bundle page information</li>
+                    </ul>
+                    <li>Sparkle 1.15.1</li>
+                    <li>PFMoveApplication updated</li>
+                    <li>UI Changes</li>
+                    <li>Improve system app injection time</li>
+                    <li>Improve injection method</li>
+                    <li>Improve login item method</li>
+                    <li>Fix bundle info not updating if a new version was installed</li>
+                    <li>Fix window stuck floating after SIMBL update message</li>
+                    <li>Fix SIMBL update window not showing the parent app</li>
+                    <li>Fix warning logging</li>
+                    <li>Miscellaneous bug fixes</li>
+                </ul>
+            
                 <li>0.3.1</li>
                 
                 <ul>
@@ -134,13 +170,13 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Wed, 03 Aug 2016 00:00:01 +0000</pubDate>
-        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_0.3.1.zip"
-                   sparkle:version="21"
-                   sparkle:shortVersionString="0.3.1"
-                   length="2281497"
+        <pubDate>Sat, 17 Dec 2016 00:00:01 +0000</pubDate>
+        <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_master.zip"
+                   sparkle:version="23"
+                   sparkle:shortVersionString="0.4.1"
+                   length="2270951"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MCwCFDRG390wF2XiJzFa4vjvbVXXJ7xbAhQWXXmDVkqTh1iHPbl/XbVLwH6GGw==" />
+                   sparkle:dsaSignature="MC0CFQDIjEEyt9PVzrwKcjqzOicG8t2bdgIUdcR+NlMzbL7i/1knEQaBJ7yihGw=" />
       </item>
   </channel>
 </rss>

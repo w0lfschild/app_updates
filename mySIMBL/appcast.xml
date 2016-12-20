@@ -6,14 +6,21 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.4.2</title>
+        <title>Version 0.4.3</title>
         <description>
           <![CDATA[
             <ul>
+                <li>0.4.3</li>
+                
+                <ul>
+                    <li>Fixes 10.9 not setting up window</li>
+                    <li>Fixes SIMBLAgent not automatically loading plugins</li>
+                </ul>
+            
                 <li>0.4.2</li>
                 
                 <ul>
-                    <li>Bug fixes</li>
+                    <li>Fixes mySIMBLAgent crash</li>
                 </ul>
             
                 <li>0.4.1</li>
@@ -176,13 +183,13 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Sun, 18 Dec 2016 00:00:01 +0000</pubDate>
+        <pubDate>Tue, 20 Dec 2016 00:00:01 +0000</pubDate>
         <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_master.zip"
-                   sparkle:version="24"
-                   sparkle:shortVersionString="0.4.2"
-                   length="2271004"
+                   sparkle:version="25"
+                   sparkle:shortVersionString="0.4.3"
+                   length="2278824"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MC4CFQCUklgczW0hoQjGWb3cnWHTNTv/PwIVAL3XvIj2bVRygsO1A7uhXRn4h+Bl" />
+                   sparkle:dsaSignature="MC0CFQCKpWQyXpmy6JvIYb/Iv9XgPFBP5wIUbxKMgVr9Y6sCv53p6YtdffoGAac=" />
       </item>
   </channel>
 </rss>

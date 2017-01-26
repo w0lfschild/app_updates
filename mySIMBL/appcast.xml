@@ -6,10 +6,25 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.4.3</title>
+        <title>Version 0.5.1</title>
         <description>
           <![CDATA[
             <ul>
+                <li>0.5.1</li>
+                
+                <ul>
+                    <li>Improved inject into all applications method</li>
+                    <li>Improved locating of applications for SIMBL Blacklist</li>
+                    <li>Improved launch time</li>
+                    <li>Fix SIMBLAgent update/install failing when SIP is enabled</li>
+                    <li>Fix System Integrity Protection status now displays properly</li>
+                    <li>New default repo</li>
+                    <li>New toggles allowing injection into Xcode and Safari Tech Preview</li>
+                    <li>New button to uninstall SIMBL</li>
+                    <li>DevMate integration</li>
+                    <li>Bugfixes</li>
+                </ul>
+
                 <li>0.4.3</li>
                 
                 <ul>
@@ -183,13 +198,13 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Tue, 20 Dec 2016 00:00:01 +0000</pubDate>
+        <pubDate>Wed, 25 Jan 2017 00:00:01 +0000</pubDate>
         <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_master.zip"
-                   sparkle:version="25"
-                   sparkle:shortVersionString="0.4.3"
-                   length="2278824"
+                   sparkle:version="28"
+                   sparkle:shortVersionString="0.5.1"
+                   length="2939189"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MC0CFQCKpWQyXpmy6JvIYb/Iv9XgPFBP5wIUbxKMgVr9Y6sCv53p6YtdffoGAac=" />
+                   sparkle:dsaSignature="MCwCFGP8KzPZBnXVF39SAy8Z/QQa5ICbAhRvFzuy++QDHtMfJronPbg0x68ntA==" />
       </item>
   </channel>
 </rss>

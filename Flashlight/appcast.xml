@@ -6,14 +6,26 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>en</language>
         <item>
+            <title>Version 1.0.6</title>
+            <sparkle:releaseNotesLink>http://flashlightupdates.42pag.es/1.0.1</sparkle:releaseNotesLink>
+            <pubdate>Sat, 25 Jun 2017 20:27:11 +0000</pubdate>
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.6.zip"
+                sparkle:version="60"
+                sparkle:shortVersionString="1.0.6"
+                type="application/octet-stream"
+                sparkle:dsaSignature="MC0CFHVsDVIDMMriK3rJYrhL/hiVyGakAhUAokVNEvNB9UtcDwaCL2lgfrNeR80=">
+                <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            </enclosure>
+        </item>
+        <item>
             <title>Version 1.0.4</title>
             <sparkle:releaseNotesLink>http://flashlightupdates.42pag.es/1.0.1</sparkle:releaseNotesLink>
             <pubdate>Sat, 25 Jun 2015 20:27:11 +0000</pubdate>
             <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.4.zip"
-                        sparkle:version="54"
-                        sparkle:shortVersionString="1.0.4"
-                        type="application/octet-stream"
-                        sparkle:dsaSignature="MC0CFBUgFU63WAeCR22zQqRinEVIlHgVAhUAmOWvbeNi9lgceyXZQo9PXYrt5ro=">
+                sparkle:version="54"
+                sparkle:shortVersionString="1.0.4"
+                type="application/octet-stream"
+                sparkle:dsaSignature="MC0CFBUgFU63WAeCR22zQqRinEVIlHgVAhUAmOWvbeNi9lgceyXZQo9PXYrt5ro=">
                 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
             </enclosure>
         </item>

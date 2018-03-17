@@ -6,6 +6,18 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>en</language>
         <item>
+            <title>Version 1.0.8</title>
+            <sparkle:releaseNotesLink>http://flashlightupdates.42pag.es/1.0.1</sparkle:releaseNotesLink>
+            <pubdate>Sat, 17 Mar 2018 20:27:11 +0000</pubdate>
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.8.zip"
+                sparkle:version="62"
+                sparkle:shortVersionString="1.0.8"
+                type="application/octet-stream"
+                sparkle:dsaSignature="MC0CFQC5esFOWjGSVE9A1pggiXEQc8Vu5QIUFLX0jwdTrSnJRosTt1sagvwbHXE=">
+                <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            </enclosure>
+        </item>
+        <item>
             <title>Version 1.0.6</title>
             <sparkle:releaseNotesLink>http://flashlightupdates.42pag.es/1.0.1</sparkle:releaseNotesLink>
             <pubdate>Sat, 25 Jun 2017 20:27:11 +0000</pubdate>

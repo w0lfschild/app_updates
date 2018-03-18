@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>Version 1.0.1</title>
-            <sparkle:releaseNotesLink>http://cdock.42pag.es/1.0.1</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://w0lfschild.github.io/app_pages/cdock_1.0.1.html</sparkle:releaseNotesLink>
             <pubDate>Fri, 16 Mar 2018 00:00:01 +0000</pubDate>
             <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.1.zip"
             sparkle:version="5080"

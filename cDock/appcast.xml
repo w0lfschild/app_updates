@@ -7,7 +7,218 @@
         <language>en</language>
         <item>
             <title>Version 1.0.1</title>
-            <sparkle:releaseNotesLink>https://w0lfschild.github.io/app_pages/cdock_1.0.1.html</sparkle:releaseNotesLink>
+            <description>
+                <![CDATA[
+                    <h1 style="text-align: left;">
+                    1.0.1
+                    </h1>
+                    <h2 style="text-align: left;">
+                    Important Info:
+                    </h2>
+                    <p style="text-align: left;">
+                    </p>
+                    <ul>
+                    <li style="text-align: left;">
+                    macOS 10.10+ requirement
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    cDock is now paid with a trail
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    If you've recently donated feel free to contact me about getting a free
+                    license
+                    </li>
+                    </ul>
+                    <p>
+                    </p>
+                    <h2 style="text-align: left;">
+                    New:
+                    </h2>
+                    <p style="text-align: left;">
+                    </p>
+                    <ul>
+                    <li style="text-align: left;">
+                    Pinning the dock to an edge of the screen
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Hide Finder tile
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Hide Trash tile
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Show item count badge on Trash tile
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Color icon badges background
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Color application switcher background
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Color Mission Control background
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Badges and label text will change to be readable based on background
+                    color
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Control some default Dock settings without restarting the Dock
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    More options for showing icon reflections
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Dim inactive icons
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Select pictures for background and indicator
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Small spacer tiles
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Pick your own images for dock and indicator backgrounds (.png format)
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Add or Remove themes without restarting cDock
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Automatically expand spaces when entering Mission Control
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    More tooltips
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Better theme management
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    New themes
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    New Icon
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Updated SIMBLManger
+                    </li>
+                    <li style="text-align: left;">
+                    Crash protection (in case a macOS update causes repeated Dock
+                    crashing)
+                    </li>
+                    </ul>
+                    <p>
+                    </p>
+                    <h2 style="text-align: left;">
+                    Fixed:
+                    </h2>
+                    <p style="text-align: left;">
+                    </p>
+                    <ul>
+                    <li style="text-align: left;">
+                    Dock crash when switching between some themes
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    3D option not working in some cases
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Issue with Vertical Full screen dock and magnification enabled
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Label background not fully applying on folder views
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Lots of changes to theme not applying until Dock restart
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Better Dock reloading
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Better Dock layering (Badge > Icon > Indicator > Reflection)
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Issues with reduced transparency enabled
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Helper Application is now CodeSigned
+                    </li>
+                    </ul>
+                    <h2 style="text-align: left;">
+                    Changes
+                    </h2>
+                    <p style="text-align: left;">
+                    </p>
+                    <ul>
+                    <li style="text-align: left;">
+                    Now using StartAtLoginController for login item
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Dev-Mate for updates, bug reporting, feedback, and logging
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Paddle for sales and logging
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Changes to theme preferences structure (old themes will need to be
+                    updated)
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    User Interface redesign
+                    
+                    </li>
+                    <li style="text-align: left;">
+                    Updated PFMoveApplication
+                    </li>
+                    <li style="text-align: left;">
+                    Removed Fishhook
+                    </li>
+                    <li style="text-align: left;">
+                    Bug fixes and Performance improvements
+                    
+                    </li>
+                    </ul>
+                    <p>
+                    </p>
+                    <div style="text-align: left;">
+                    <br>
+                    </br>
+                    </div>
+                ]]>
+            </description>
+<!--            <sparkle:releaseNotesLink>https://w0lfschild.github.io/app_pages/cdock_1.0.1.html</sparkle:releaseNotesLink>-->
             <pubDate>Fri, 16 Mar 2018 00:00:01 +0000</pubDate>
             <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.1.zip"
             sparkle:version="5080"

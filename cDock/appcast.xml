@@ -6,22 +6,30 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.1</title>
+            <sparkle:releaseNotesLink>http://cdock.42pag.es/1.0.1</sparkle:releaseNotesLink>
+            <pubdate>Sat, 17 Mar 2018 20:27:11 +0000</pubdate>
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.1.zip"
+                sparkle:version="5080"
+                sparkle:shortVersionString="1.0.1"
+                length="10306978"
+                type="application/octet-stream"
+                sparkle:dsaSignature="MCwCFGYLJOyg4FsHUPkeoiHJTBI0kNeIAhRlq87r35twYjvq17BOtr3hpUqM1g==">
+                <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            </enclosure>
+        </item>
+        <item>
             <title>Version 0.12.4</title>
-            <description>
-                <![CDATA[
-                    <ul>
-                    <li>Bug fixes</li>
-                    <li>Fix codesign issue with helper application</li>
-                    </ul>
-                ]]>
-            </description>
+            <sparkle:releaseNotesLink>http://cdock.42pag.es/0.12.4</sparkle:releaseNotesLink>
             <pubDate>Fri, 26 Aug 2016 00:00:01 +0000</pubDate>
             <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.12.4.zip"
-            sparkle:version="4039"
-            sparkle:shortVersionString="0.12.4"
-            length="2325639"
-            type="application/octet-stream"
-            sparkle:dsaSignature="MCwCFCR8WtHtvOq5DKnqItW3uIhMh6CNAhQHrVPPQzJcjUo9TX336SYeqADUUg==" />
+                sparkle:version="4039"
+                sparkle:shortVersionString="0.12.4"
+                length="2325639"
+                type="application/octet-stream"
+                sparkle:dsaSignature="MCwCFCR8WtHtvOq5DKnqItW3uIhMh6CNAhQHrVPPQzJcjUo9TX336SYeqADUUg==">
+                <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            </enclosure>
         </item>
     </channel>
 </rss>

@@ -15,12 +15,12 @@
                 ]]>
             </description>
             <pubDate>Fri, 16 Mar 2018 00:00:01 +0000</pubDate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_0.12.4.zip"
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.1.zip"
             sparkle:version="5080"
             sparkle:shortVersionString="1.0.1"
-            length="10306978"
+            length="10308992"
             type="application/octet-stream"
-            sparkle:dsaSignature="MC0CFFmUI7uxCG67JgYlX+CvPdrqKxXqAhUAtoZPcxAT3Td4+JfB9dVBULNCXRc=" />
+            sparkle:dsaSignature="MC0CFCi5FOjdJtNxsoPPCk3GoQ5HpN7GAhUAiytix46buWEUqLAd0pIy23b3Ekg=" />
         </item>
     </channel>
 </rss>

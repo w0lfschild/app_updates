@@ -6,11 +6,11 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.0.2</title>
             <description>
                 <![CDATA[
                     <h1 style="text-align: left;">
-                    1.0.1
+                    1.0.2
                     </h1>
                     <h2 style="text-align: left;">
                     Important Info:
@@ -220,14 +220,13 @@
                     </div>
                 ]]>
             </description>
-<!--            <sparkle:releaseNotesLink>https://w0lfschild.github.io/app_pages/cdock_1.0.1.html</sparkle:releaseNotesLink>-->
             <pubDate>Fri, 16 Mar 2018 00:00:01 +0000</pubDate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.1.zip"
-            sparkle:version="5080"
-            sparkle:shortVersionString="1.0.1"
-            length="10309017"
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.2.zip"
+            sparkle:version="5087"
+            sparkle:shortVersionString="1.0.2"
+            length="10316160"
             type="application/octet-stream"
-            sparkle:dsaSignature="MC0CFER8jdVw23QwGrTx8VyNqtbI7TIBAhUAmMEOv1eI/P9VlCQSINWYv+viHjE=" />
+            sparkle:dsaSignature="MCwCFHcTIStUp+aFyYjj3lAL06ZjI5HmAhRH9UHsPE4Fv5GKADjhr+Ao9vKoYg==" />
         </item>
     </channel>
 </rss>

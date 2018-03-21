@@ -6,227 +6,137 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.2</title>
+            <title>Version 1.0.3</title>
             <description>
                 <![CDATA[
-                    <h1 style="text-align: left;">
-                    1.0.2
-                    </h1>
-                    <h2 style="text-align: left;">
-                    Important Info:
-                    </h2>
-                    <p style="text-align: left;">
-                    </p>
-                    <ul>
-                    <li style="text-align: left;">
-                    macOS 10.10+ requirement
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    cDock is now $4.99 with a trail
-                    
-                    <ul>
-                    </li>
-                    <li style="text-align: left;">
-                    If you've recently donated feel free to contact me about getting a free
-                    license
-                    </li>
+                    <p>macOS 10.10+ requirement</p>
+                    <p>cDock is now paid with a trial</p>
+                    <p>&nbsp;</p>
+                    <p class="p1">1.0.3</p>
+                    <p class="p2">&nbsp;</p>
+                    <p class="p3">&bull;New</p>
+                    <ul class="ul1">
+                    <ul class="ul2">
+                    <li class="li1">Show/Hide iCloud Drive icon in Dock</li>
+                    <li class="li1">Show/Hide AirDrop icon in Dock</li>
+                    <li class="li1">Show/Hide Launchpad new item dot</li>
+                    <li class="li1">Launchpad adjust row and column count</li>
+                    <li class="li1">Ability to delete saved Dock backups</li>
+                    <li class="li1">Button to show license</li>
                     </ul>
                     </ul>
-                    <p>
-                    </p>
-                    <h2 style="text-align: left;">
-                    New:
-                    </h2>
-                    <p style="text-align: left;">
-                    </p>
-                    <ul>
-                    <li style="text-align: left;">
-                    Pinning the dock to an edge of the screen
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Hide Finder tile
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Hide Trash tile
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Show item count badge on Trash tile
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Color icon badges background
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Color application switcher background
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Color Mission Control background
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Badges and label text will change to be readable based on background
-                    color
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Control some default Dock settings without restarting the Dock
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    More options for showing icon reflections
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Dim inactive icons
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Select pictures for background and indicator
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Small spacer tiles
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Pick your own images for dock and indicator backgrounds (.png format)
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Add or Remove themes without restarting cDock
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Automatically expand spaces when entering Mission Control
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    More tooltips
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Better theme management
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    New themes
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    New Icon
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Updated SIMBLManger
-                    </li>
-                    <li style="text-align: left;">
-                    Crash protection (in case a macOS update causes repeated Dock
-                    crashing)
-                    </li>
+                    <p class="p2">&nbsp;</p>
+                    <ul class="ul1">
+                    <li class="li1">Fixes</li>
+                    <ul class="ul2">
+                    <li class="li1">Dock preference backups not showing in some cases</li>
+                    <li class="li1">Indicator miss-alignment on Left / Right positioning</li>
+                    <li class="li1">Conflict with TotalSpaces</li>
+                    <li class="li1">Case where app could hang when communicating with the Dock</li>
+                    <li class="li1">Case where Dock would freeze when restarting and loading the cDock bundle</li>
+                    <li class="li1">Case where helper could crash when trying to load the cDock bundle</li>
+                    <li class="li1">cDock Helper not using app icon</li>
+                    <li class="li1">cDock Helper not checking for updates</li>
+                    <li class="li1">Updated PaddleFramework to latest version</li>
+                    <li class="li1">Unhandled exception when trying to use non RGBA color picker</li>
+                    <li class="li1">Issue where switching themes back and forth would decrease slider values</li>
+                    <li class="li1">Issue where Left / Right position dock would draw custom indicator images incorrectly</li>
+                    <li class="li1">Show Finder and Show trash default to on if the key does not exist in the theme</li>
+                    <li class="li1">Bug fixes</li>
                     </ul>
-                    <p>
-                    </p>
-                    <h2 style="text-align: left;">
-                    Fixed:
-                    </h2>
-                    <p style="text-align: left;">
-                    </p>
-                    <ul>
-                    <li style="text-align: left;">
-                    Dock crash when switching between some themes
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    3D option not working in some cases
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Issue with Vertical Full screen dock and magnification enabled
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Label background not fully applying on folder views
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Lots of changes to theme not applying until Dock restart
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Better Dock reloading
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Better Dock layering (Badge > Icon > Indicator > Reflection)
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Issues with reduced transparency enabled
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Helper Application is now CodeSigned
-                    </li>
                     </ul>
-                    <h2 style="text-align: left;">
-                    Changes
-                    </h2>
-                    <p style="text-align: left;">
-                    </p>
-                    <ul>
-                    <li style="text-align: left;">
-                    Now using StartAtLoginController for login item
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Dev-Mate for updates, bug reporting, feedback, and logging
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Paddle for sales and logging
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Changes to theme preferences structure (old themes will need to be
-                    updated)
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    User Interface redesign
-                    
-                    </li>
-                    <li style="text-align: left;">
-                    Updated PFMoveApplication
-                    </li>
-                    <li style="text-align: left;">
-                    Removed Fishhook
-                    </li>
-                    <li style="text-align: left;">
-                    Bug fixes and Performance improvements
-                    
-                    </li>
+                    <p class="p2">&nbsp;</p>
+                    <p class="p1">1.0.2</p>
+                    <p class="p2">&nbsp;</p>
+                    <p class="p3">&bull;New</p>
+                    <ul class="ul1">
+                    <ul class="ul2">
+                    <li class="li1">Extended trial to 2 weeks</li>
                     </ul>
-                    <p>
-                    </p>
-                    <div style="text-align: left;">
-                    <br>
-                    </br>
-                    </div>
+                    </ul>
+                    <p class="p2">&nbsp;</p>
+                    <ul class="ul1">
+                    <li class="li1">Fixed</li>
+                    <ul class="ul2">
+                    <li class="li1">Corrected a few typos</li>
+                    <li class="li1">Update a few instances of linking to http:// &gt; https://</li>
+                    <li class="li1">Revert StartAtLoginController change&nbsp;</li>
+                    <li class="li1">Fix system component update failing</li>
+                    <li class="li1">Bug fixes</li>
+                    </ul>
+                    </ul>
+                    <p class="p4">&nbsp;</p>
+                    <p class="p1">1.0.1</p>
+                    <p class="p2">&nbsp;</p>
+                    <ul class="ul1">
+                    <li class="li1">New</li>
+                    <ul class="ul2">
+                    <li class="li1">Pinning the dock to an edge of the screen</li>
+                    <li class="li1">Hide Finder tile</li>
+                    <li class="li1">Hide Trash tile</li>
+                    <li class="li1">Show item count badge on Trash tile</li>
+                    <li class="li1">Color icon badges background</li>
+                    <li class="li1">Color application switcher background</li>
+                    <li class="li1">Color Mission Control background</li>
+                    <li class="li1">Badges and label text will change to be readable based on background color</li>
+                    <li class="li1">Control some default Dock settings without restarting the Dock</li>
+                    <li class="li1">More options for showing icon reflections</li>
+                    <li class="li1">Dim inactive icons</li>
+                    <li class="li1">Select pictures for background and indicator</li>
+                    <li class="li1">Small spacer tiles</li>
+                    <li class="li1">Pick your own images for dock and indicator backgrounds (.png format)</li>
+                    <li class="li1">Add or Remove themes without restarting cDock</li>
+                    <li class="li1">Automatically expand spaces when entering Mission Control</li>
+                    <li class="li1">More tooltips</li>
+                    <li class="li1">Better theme management</li>
+                    <li class="li1">New themes</li>
+                    <li class="li1">New Icon</li>
+                    <li class="li1">Updated SIMBLManger</li>
+                    <li class="li1">Crash protection (in case a macOS update causes repeated Dock crashing)</li>
+                    </ul>
+                    </ul>
+                    <p class="p2">&nbsp;</p>
+                    <ul class="ul1">
+                    <li class="li1">Fixed</li>
+                    <ul class="ul2">
+                    <li class="li1">Dock crash when switching between some themes</li>
+                    <li class="li1">3D option not working in some cases</li>
+                    <li class="li1">Issue with Vertical Full screen dock and magnification enabled</li>
+                    <li class="li1">Label background not fully applying on folder views</li>
+                    <li class="li1">Lots of changes to theme not applying until Dock restart</li>
+                    <li class="li1">Better Dock reloading</li>
+                    <li class="li1">Better Dock layering (Badge &gt; Icon &gt; Indicator &gt; Reflection)</li>
+                    <li class="li1">Issues with reduced transparency enabled</li>
+                    <li class="li1">Helper Application is now CodeSigned</li>
+                    </ul>
+                    </ul>
+                    <p class="p2">&nbsp;</p>
+                    <ul class="ul1">
+                    <li class="li1">Changes</li>
+                    <ul class="ul2">
+                    <li class="li1">Now using StartAtLoginController for login item</li>
+                    <li class="li1">Dev-Mate for updates, bug reporting, feedback, and logging</li>
+                    <li class="li1">Paddle for sales and logging</li>
+                    </ul>
+                    </ul>
+                    <ul class="ul1">
+                    <ul class="ul2">
+                    <li class="li1">Changes to theme preferences structure (old themes will need to be updated)</li>
+                    <li class="li1">User Interface redesign</li>
+                    <li class="li1">Updated PFMoveApplication</li>
+                    <li class="li1">Removed Fishhook</li>
+                    <li class="li1">Bug fixes and Performance improvements</li>
+                    </ul>
+                    </ul>
                 ]]>
             </description>
-            <pubDate>Fri, 16 Mar 2018 00:00:01 +0000</pubDate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.2.zip"
-            sparkle:version="5087"
-            sparkle:shortVersionString="1.0.2"
-            length="10316160"
+            <pubDate>Tue, 20 Mar 2018 00:00:01 +0000</pubDate>
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.3.zip"
+            sparkle:version="5200"
+            sparkle:shortVersionString="1.0.3"
+            length="10346749"
             type="application/octet-stream"
-            sparkle:dsaSignature="MCwCFHcTIStUp+aFyYjj3lAL06ZjI5HmAhRH9UHsPE4Fv5GKADjhr+Ao9vKoYg==" />
+            sparkle:dsaSignature="MC0CFCx4N9UzR/XNYVaxLz+nlIK2jEJLAhUAuCcqhz5DrCcGhC/qDJrEousRn/w=" />
         </item>
     </channel>
 </rss>

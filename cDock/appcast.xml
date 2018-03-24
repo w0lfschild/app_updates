@@ -6,12 +6,20 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.4</title>
             <description>
                 <![CDATA[
                     <p>macOS 10.10+ requirement</p>
                     <p>cDock is now paid with a trial</p>
                     <p>&nbsp;</p>
+                    <p class="p1">1.0.4</p>
+                    <p class="p2">&nbsp;</p>
+                    <p class="p3">&bull;Fixed</p>
+                    <ul class="ul1">
+                    <ul class="ul2">
+                    <li class="li1">cDock Helper crash on launch</li>
+                    <li class="li1">Improved automatically expanding spaces when entering Mission Control to be instant</li>
+                    </ul>
                     <p class="p1">1.0.3</p>
                     <p class="p2">&nbsp;</p>
                     <p class="p3">&bull;New</p>
@@ -130,13 +138,13 @@
                     </ul>
                 ]]>
             </description>
-            <pubDate>Tue, 20 Mar 2018 00:00:01 +0000</pubDate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.3.zip"
-            sparkle:version="5200"
-            sparkle:shortVersionString="1.0.3"
-            length="10346749"
+            <pubDate>Fri, 23 Mar 2018 00:00:01 +0000</pubDate>
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.4.zip"
+            sparkle:version="5208"
+            sparkle:shortVersionString="1.0.4"
+            length="10347359"
             type="application/octet-stream"
-            sparkle:dsaSignature="MC0CFCx4N9UzR/XNYVaxLz+nlIK2jEJLAhUAuCcqhz5DrCcGhC/qDJrEousRn/w=" />
+            sparkle:dsaSignature="MC4CFQDLIRidEIDY71QXMP264nQavXZv0AIVAI3AbBadKfhBxXS7XhiEBwyhDOcr" />
         </item>
     </channel>
 </rss>

@@ -4,21 +4,21 @@
 <array>
 	<dict>
 		<key>homepage</key>
-		<string>https://github.com/w0lfschild/Flashlight</string>
-		<key>name</key>
-		<string>🔦 Try FlashLight</string>
-	</dict>
-	<dict>
-		<key>homepage</key>
 		<string>https://w0lfschild.github.io/app_cDock.html</string>
 		<key>name</key>
 		<string>🍭 Try cDock</string>
 	</dict>
 	<dict>
 		<key>homepage</key>
-		<string>https://w0lfschild.github.io/app_dBoot.html</string>
+		<string>https://github.com/w0lfschild/Flashlight</string>
 		<key>name</key>
-		<string>🌒 Try Dark Boot</string>
+		<string>🔦 Try FlashLight</string>
+	</dict>
+	<dict>
+		<key>homepage</key>
+		<string>https://w0lfschild.github.io/app_SIMBL.html</string>
+		<key>name</key>
+		<string>📦 Try mySIMBL</string>
 	</dict>
 </array>
 </plist>

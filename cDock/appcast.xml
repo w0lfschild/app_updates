@@ -6,7 +6,7 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.4</title>
+            <title>Version 1.1.1</title>
             <description>
                 <![CDATA[
                     <p>macOS 10.10+ requirement</p>
@@ -139,12 +139,12 @@
                 ]]>
             </description>
             <pubDate>Fri, 23 Mar 2018 00:00:01 +0000</pubDate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_1.0.4.zip"
-            sparkle:version="5208"
-            sparkle:shortVersionString="1.0.4"
-            length="10347359"
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/cDock/cDock_master.zip"
+            sparkle:version="5356"
+            sparkle:shortVersionString="1.1.1"
+            length="10621716"
             type="application/octet-stream"
-            sparkle:dsaSignature="MC4CFQDLIRidEIDY71QXMP264nQavXZv0AIVAI3AbBadKfhBxXS7XhiEBwyhDOcr" />
+            sparkle:dsaSignature="MCwCFA7UVIVSTuUX2NNMyPN18uCN0fcmAhQd7Sb9n5ww/Q0wYPA2+iMmhJwSpg==" />
         </item>
     </channel>
 </rss>

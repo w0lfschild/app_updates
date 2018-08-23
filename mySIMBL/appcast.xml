@@ -6,10 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.5.1</title>
+        <title>Version 0.7.2</title>
         <description>
           <![CDATA[
             <ul>
+                <li>0.7.2</li>
+                
+                <ul>
+                    <li>New stuff and bug fixes :)</li>
+                </ul>
+
                 <li>0.5.1</li>
                 
                 <ul>
@@ -200,11 +206,11 @@
         </description>
         <pubDate>Wed, 25 Jan 2017 00:00:01 +0000</pubDate>
         <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/mySIMBL/mySIMBL_master.zip"
-                   sparkle:version="28"
-                   sparkle:shortVersionString="0.5.1"
-                   length="2939189"
+                   sparkle:version="72"
+                   sparkle:shortVersionString="0.7.2"
+                   length="6610048"
                    type="application/octet-stream"
-                   sparkle:dsaSignature="MCwCFGP8KzPZBnXVF39SAy8Z/QQa5ICbAhRvFzuy++QDHtMfJronPbg0x68ntA==" />
+                   sparkle:dsaSignature="MC0CFCfzmZEQV2s2lDlnmSK7CzbgT5OrAhUAx6lnoaj15yBcWgWmg3Yvnsifvm8=" />
       </item>
   </channel>
 </rss>

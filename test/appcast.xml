@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>cDock</title>
+<item>
+<title>1.0.5861</title>
+<pubDate>Sat, 20 Jul 2019 21:33:45 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock/cDock_2.0.1.zip" sparkle:version="22" sparkle:shortVersionString="1.0.5861" length="18064734" type="application/octet-stream" sparkle:edSignature="Xm9YedknM2aTcevZ1UIx4sfCcI8lOaz7lRaVf9ZgbndCaQd0bv3sYYSeaP4J4yYLGTwz7I0/RD4V9XSoIy7pAw=="/>
+</item>
+</channel></rss>

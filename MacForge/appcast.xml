@@ -5,7 +5,14 @@
 <title>0.9.1</title>
 <pubDate>Fri, 19 Jul 2019 17:15:32 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="100" sparkle:shortVersionString="0.9.1" length="19259329" type="application/octet-stream" sparkle:edSignature="Cxw67t/D9UF/z7nRVQ8wbf5j/p+6wEqEVCrkJo2lDkSm/AJ/lrJJbchBYDn40JpzcvCGXn/kyQhMuAmZcUw4BA==" sparkle:dsaSignature="MC4CFQDLR9s3sdMBjVYjB5uLrQdasyFu1gIVAJRSd6oGroQKma+mLi4ewononHwh"/>
-<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.html</sparkle:releaseNotesLink>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.1.zip" sparkle:version="100" sparkle:shortVersionString="0.9.1" length="19645229" type="application/octet-stream" sparkle:edSignature="swJ0NoDEp1l/RaHwMst+dIocZSlLZLdjq7/E9v5h4lpg7YKOS0zRNtVIGrTWy9siKSG1n3eR/KzM52aJTg/9Cg=="/>
 </item>
+<item>
+<title>0.9.5</title>
+<pubDate>Tue, 06 Aug 2019 02:50:01 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.html</sparkle:releaseNotesLink>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="169" sparkle:shortVersionString="0.9.5" length="7799787" type="application/octet-stream" sparkle:edSignature="eToHEJYGwsBZYsLBZWYfiYZVZ/er8DFgWl7cNU+KKsSkSxYnQ8KtZRZIvaOmARSa1vz4zpiTbRhmOeNSsrl+Cg=="/>
+</item>
+
 </channel></rss>

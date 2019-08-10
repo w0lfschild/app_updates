@@ -2,17 +2,16 @@
 <channel>
 <title>MacForge</title>
 <item>
-<title>0.9.1</title>
-<pubDate>Fri, 19 Jul 2019 17:15:32 -0700</pubDate>
+<title>0.9.8</title>
+<pubDate>Sat, 10 Aug 2019 02:19:44 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.1.zip" sparkle:version="100" sparkle:shortVersionString="0.9.1" length="19645229" type="application/octet-stream" sparkle:edSignature="swJ0NoDEp1l/RaHwMst+dIocZSlLZLdjq7/E9v5h4lpg7YKOS0zRNtVIGrTWy9siKSG1n3eR/KzM52aJTg/9Cg==" sparkle:dsaSignature="MC0CFQDFHxYVxheML1A9JwvAoiowZ4qQtgIUE6ei3uCeKg8OdyY/8ZCg+3i48OU="/>
-</item>
-<item>
-<title>0.9.5</title>
-<pubDate>Tue, 06 Aug 2019 02:50:01 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="169" sparkle:shortVersionString="0.9.5" length="7052899" type="application/octet-stream" sparkle:edSignature="ZqZAOKfTaJvQ7YP+XryXFZ/GraN6RFrU3X7V0trI0jFK/INqEdDtFJ3uDLAVXcnAPtyCsYZes9YtUvHBJTSgAQ==" sparkle:dsaSignature="MC0CFQC6x9M40Ub6RDEpNHALz/qrFU5S5wIUbbEwhdTvIgA8DJPIiku4YHt9JL8="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.8.zip" sparkle:version="233" sparkle:shortVersionString="0.9.8" length="7051476" type="application/octet-stream" sparkle:edSignature="y3Wwj2pj0nrFEhpBz0BF4LWOToFUow3vw1d7y0vQqVjLNcVRGl/7TMvjvWZf9TSZ0Y/BbR6akQnXsq1dMl59Ag==" sparkle:dsaSignature="MC0CFQC6GuKlIXfkUJnv5EpC2IxqEKwr3QIUTjIaVVEoYttKKRk8tKamAXDeEpQ="/>
 </item>
 
+<item>
+<title>0.9.7</title>
+<pubDate>Sat, 10 Aug 2019 02:14:51 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.7.zip" sparkle:version="225" sparkle:shortVersionString="0.9.7" length="7051504" type="application/octet-stream" sparkle:edSignature="avIYGt6L123JNbgC9HV+RRIlGyKRzZDEJNhCHfavwC1UjYvot62xtFUy0mEGJ1kAMTd5pUXbaji5Bqva/FrpCA==" sparkle:dsaSignature="MC0CFBdpk9Dj6t+c96OuGd/vknfUnfsqAhUAo4IxgAQY7OmUte3561QVogwKW+o="/>
+</item>
 </channel></rss>

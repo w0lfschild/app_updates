@@ -12,7 +12,7 @@
 <pubDate>Tue, 06 Aug 2019 02:50:01 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="169" sparkle:shortVersionString="0.9.5" length="7799787" type="application/octet-stream" sparkle:edSignature="eToHEJYGwsBZYsLBZWYfiYZVZ/er8DFgWl7cNU+KKsSkSxYnQ8KtZRZIvaOmARSa1vz4zpiTbRhmOeNSsrl+Cg==" sparkle:dsaSignature="MC4CFQDEuMCLqEGws1v8PV49b9cgbzfa2wIVAMBuDN1lV53/YLYxEqBKv6clUeOA"/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="169" sparkle:shortVersionString="0.9.5" length="7052899" type="application/octet-stream" sparkle:edSignature="ZqZAOKfTaJvQ7YP+XryXFZ/GraN6RFrU3X7V0trI0jFK/INqEdDtFJ3uDLAVXcnAPtyCsYZes9YtUvHBJTSgAQ==" sparkle:dsaSignature="MC0CFQC6x9M40Ub6RDEpNHALz/qrFU5S5wIUbbEwhdTvIgA8DJPIiku4YHt9JL8="/>
 </item>
 
 </channel></rss>

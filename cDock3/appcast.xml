@@ -2,9 +2,9 @@
 <channel>
 <title>cDock</title>
 <item>
-<title>2.0.1</title>
+<title>3.0.2</title>
 <pubDate>Fri, 23 Aug 2019 01:14:14 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.zip" sparkle:version="6001" sparkle:shortVersionString="2.0.1" length="16274557" type="application/octet-stream" sparkle:edSignature="nZwTHYj/eW5WptZ1iDW6D9k92Tq7+rCI8s9mnTXPMq+3+sJQ4ulMp0zz7EkIgJpIQIlnrLchyQ2GTsoa33xLDg==" sparkle:dsaSignature="MC0CFQCR8aMhqkE5AV9xo/4G3PvbUBZJCgIUTlg/69wm/rr+A4D/bhluQw0Zq1A="/>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.zip" sparkle:version="7001" sparkle:shortVersionString="3.0.2" length="16274557" type="application/octet-stream" sparkle:edSignature="nZwTHYj/eW5WptZ1iDW6D9k92Tq7+rCI8s9mnTXPMq+3+sJQ4ulMp0zz7EkIgJpIQIlnrLchyQ2GTsoa33xLDg==" sparkle:dsaSignature="MC0CFQCR8aMhqkE5AV9xo/4G3PvbUBZJCgIUTlg/69wm/rr+A4D/bhluQw0Zq1A="/>
 </item>
 </channel></rss>

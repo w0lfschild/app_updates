@@ -2,9 +2,43 @@
 <channel>
 <title>cDock</title>
 <item>
-<title>3.0.2</title>
-<pubDate>Fri, 23 Aug 2019 01:14:14 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.zip" sparkle:version="7001" sparkle:shortVersionString="3.0.2" length="16274557" type="application/octet-stream" sparkle:edSignature="nZwTHYj/eW5WptZ1iDW6D9k92Tq7+rCI8s9mnTXPMq+3+sJQ4ulMp0zz7EkIgJpIQIlnrLchyQ2GTsoa33xLDg==" sparkle:dsaSignature="MC0CFQCR8aMhqkE5AV9xo/4G3PvbUBZJCgIUTlg/69wm/rr+A4D/bhluQw0Zq1A="/>
+<title>3.0.1</title>
+<pubDate>Sun, 01 Sep 2019 14:42:31 -0700</pubDate>
+<description><![CDATA[3.0.1
+
+•	Important Note ⚠️
+	⁃	This version of cDock requires SIP remain off in order to function
+	⁃	If you wish you can still run partial SIP protection using the following command
+		⁃	csrutil enable --without debug –without fs
+
+•	New
+	⁃	Improved Mojave support
+	⁃	Catalina support
+	⁃	Switched from SIMBL to Mach Inject for loading into Dock process
+	⁃	New SIP warning sheet
+	⁃	Delta updates
+
+•	Fixed
+	⁃	Some Dock crashes
+	⁃	Fix crash if blacklisted item no longer exists
+	⁃	Improved mission control automatically showing desktop previews
+	⁃	Using newer Paddle
+	⁃	Paddle payment window not attached to main window
+	⁃	Removed DevMate (product was discontinued)
+	⁃	Switched back to Sparkle for updates
+	⁃	Hopefully fixed start at login issues
+	⁃	General bug fixes
+	⁃	Updated version number to 3.x.x to match current branding]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock_3.0.1.zip" sparkle:version="6067" sparkle:shortVersionString="3.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MC0CFQC0a3ijiDiR2hWXFxZkFkCurfxxZAIUboBzHDFNXRWfeE/JBqF0JkqEyog="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6067-6001.delta" sparkle:version="6067" sparkle:shortVersionString="3.0.1" sparkle:deltaFrom="6001" length="125852" type="application/octet-stream" sparkle:edSignature="Nw5dQMszcNPwDUB6qKWX8sIwLBdna9n6o3vEiNGo7zMgNqchwrMNsQI+FopUwwgKRnpSlhx5qGr+/bB1vZYqAA==" sparkle:dsaSignature="MC0CFQC6WCdnfAAMidFkXIio/6aO8f0W6wIUAIpYDr8syuDI8URhiJMUPd1VC4w="/></sparkle:deltas>
+</item>
+
+<item>
+<title>2.0.1</title>
+<pubDate>Sun, 01 Sep 2019 14:42:31 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.zip" sparkle:version="6001" sparkle:shortVersionString="2.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MCwCFBq1FO+O2mgeqgkznf07DUO8bmLnAhQYz8DbMXczBqKaFqKyCHU6XWQVog=="/>
 </item>
 </channel></rss>

@@ -30,15 +30,16 @@
 	⁃	General bug fixes
 	⁃	Updated version number to 3.x.x to match current branding]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock_3.0.1.zip" sparkle:version="6067" sparkle:shortVersionString="3.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MC0CFQC0a3ijiDiR2hWXFxZkFkCurfxxZAIUboBzHDFNXRWfeE/JBqF0JkqEyog="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock_3.0.1.zip" sparkle:version="6067" sparkle:shortVersionString="3.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MCwCFCXpJk37aM8kEWNvP0paeaXuC02eAhQDWG+17eQpqdFsvPHsMsBvGZ1Pjg=="/>
 <sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6067-6001.delta" sparkle:version="6067" sparkle:shortVersionString="3.0.1" sparkle:deltaFrom="6001" length="125852" type="application/octet-stream" sparkle:edSignature="Nw5dQMszcNPwDUB6qKWX8sIwLBdna9n6o3vEiNGo7zMgNqchwrMNsQI+FopUwwgKRnpSlhx5qGr+/bB1vZYqAA==" sparkle:dsaSignature="MC0CFQC6WCdnfAAMidFkXIio/6aO8f0W6wIUAIpYDr8syuDI8URhiJMUPd1VC4w="/></sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6067-6001.delta" sparkle:version="6067" sparkle:shortVersionString="3.0.1" sparkle:deltaFrom="6001" length="125852" type="application/octet-stream" sparkle:edSignature="Nw5dQMszcNPwDUB6qKWX8sIwLBdna9n6o3vEiNGo7zMgNqchwrMNsQI+FopUwwgKRnpSlhx5qGr+/bB1vZYqAA==" sparkle:dsaSignature="MC0CFQCLwpdoAB5vBjNJwxyuRCFB5qnfswIURAWj11jyh5vZ1tkzNTQ4SlFIhH0="/></sparkle:deltas>
+<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock_3.0.1.html</sparkle:releaseNotesLink>
 </item>
 
 <item>
 <title>2.0.1</title>
 <pubDate>Sun, 01 Sep 2019 14:42:31 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.zip" sparkle:version="6001" sparkle:shortVersionString="2.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MCwCFBq1FO+O2mgeqgkznf07DUO8bmLnAhQYz8DbMXczBqKaFqKyCHU6XWQVog=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.zip" sparkle:version="6001" sparkle:shortVersionString="2.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MC0CFQCMzYPcVxgzDiFmo6ATg+VqIqkH8AIUVBIvJSIyHpmX0N2a43ewO8Ma6QQ="/>
 </item>
 </channel></rss>

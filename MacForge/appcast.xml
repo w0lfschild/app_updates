@@ -2,58 +2,46 @@
 <channel>
 <title>MacForge</title>
 <item>
-<title>0.9.8</title>
-<pubDate>Sat, 10 Aug 2019 02:19:44 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.8.zip" sparkle:version="233" sparkle:shortVersionString="0.9.8" length="7051476" type="application/octet-stream" sparkle:edSignature="y3Wwj2pj0nrFEhpBz0BF4LWOToFUow3vw1d7y0vQqVjLNcVRGl/7TMvjvWZf9TSZ0Y/BbR6akQnXsq1dMl59Ag==" sparkle:dsaSignature="MC0CFEhRr8zwBOU9Ayx0n4sHlvn5zIB5AhUAyUbBICk4rjTPKdtXGq2JxnQfE1M="/>
+<title>0.10.3</title>
+<pubDate>Mon, 02 Sep 2019 13:56:35 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.html</sparkle:releaseNotesLink>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="1035" sparkle:shortVersionString="0.10.3" length="10125066" type="application/octet-stream" sparkle:edSignature="7+KpHPZev6AVUCvhXnxmZRGLTbuK3Yh1BqiDTKD4V99PaUhjDI8Rf+PMLSbYaKaCRacTlJkM4oWZHlZ7Oz77Bg==" sparkle:dsaSignature="MCwCFAPgwM7tEgsXRjeCKDgvMLnWyLn4AhRVgcllDpvfc+YSB7E/KWQC7859mg=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge1035-962.delta" sparkle:version="1035" sparkle:shortVersionString="0.10.3" sparkle:deltaFrom="962" length="1192123" type="application/octet-stream" sparkle:edSignature="ZlnZmNAoXvsrbVYmYwui60TF4K25b2E9u6kgZcmbSG0EBK+/RJwRD6IFSEOGjtV5Iq7DjfDV3GXss/5g3z/qBg==" sparkle:dsaSignature="MC4CFQC0pfZn+bH0PYMheKll2o0paHLf0AIVAMkpZEJpyjq7lfDuLhufnauCcboy"/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge1035-837.delta" sparkle:version="1035" sparkle:shortVersionString="0.10.3" sparkle:deltaFrom="837" length="737094" type="application/octet-stream" sparkle:edSignature="laRh76QelY69Abw2i8tSGQlTeta3c3jPv+jm1Jbl349fAowBv/PR0e72ROQim4Fu7LZ5vwCkgBSFWYyhQhtoCQ==" sparkle:dsaSignature="MCwCFEUOE2nVNYEUsMV/rkXorAq3K76uAhRoPUieHllghYroKoGys/vBHbjtFA=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge1035-437.delta" sparkle:version="1035" sparkle:shortVersionString="0.10.3" sparkle:deltaFrom="437" length="1683695" type="application/octet-stream" sparkle:edSignature="kKssoFOzg1NZsOGbzn/Rho9rBSUxkcKpp6FKWI5WTQUeQJlq2etPyCwPFaLoOCEa+qcNe5dV0FcG6O2Q8JfFBw==" sparkle:dsaSignature="MC0CFQCVuppojbv61lb2/q7Dye616XoO5gIUc4vw/re8H9OQKJeiwo4A0uarkI4="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge1035-363.delta" sparkle:version="1035" sparkle:shortVersionString="0.10.3" sparkle:deltaFrom="363" length="1703412" type="application/octet-stream" sparkle:edSignature="Wp6pN9EEQBOcMf3InajdRXiETElhJCPvn1gjuvBd2ToRzPiy95VwUw3IjVAek4ZLDf45KlTTXo/QDAF61TMyCQ==" sparkle:dsaSignature="MC0CFCpIR1vFuoA1iGmwM9BT+ESQZZwXAhUAtCUNSe4rrmgs6gV8J0mWOeVmnKM="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge1035-249.delta" sparkle:version="1035" sparkle:shortVersionString="0.10.3" sparkle:deltaFrom="249" length="3283595" type="application/octet-stream" sparkle:edSignature="YQTImn7F2Gx4DeMcluS/YjDYbp4M3BIPgUSJYLMa4qkJmnDnRPYk3Kd4OHvDjNF2TqVaS2vPUkCls6baJJJpDA==" sparkle:dsaSignature="MC0CFBU1O869hsq20uLcgrZT7AQ00Ae9AhUApA1XlU85pgsMgVMlhR6sseibXAs="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge1035-233.delta" sparkle:version="1035" sparkle:shortVersionString="0.10.3" sparkle:deltaFrom="233" length="3284305" type="application/octet-stream" sparkle:edSignature="anwJYtahFhsBpDQnpCakFrEq4r/0WvI3/KMq59E5oJe/KOTke6HiXYLsn4ooX3cw8aeWM0giVyaRnKUA/lb+AA==" sparkle:dsaSignature="MC0CFQDGg4RrXB88ZoKA8VNQArP4a0IGQAIUGnzV/Sy6knx/37kp2hma0fpLtdE="/></sparkle:deltas>
 </item>
 
 <item>
-<title>0.9.7</title>
-<pubDate>Sat, 10 Aug 2019 02:14:51 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.7.zip" sparkle:version="225" sparkle:shortVersionString="0.9.7" length="7051504" type="application/octet-stream" sparkle:edSignature="avIYGt6L123JNbgC9HV+RRIlGyKRzZDEJNhCHfavwC1UjYvot62xtFUy0mEGJ1kAMTd5pUXbaji5Bqva/FrpCA==" sparkle:dsaSignature="MCwCFBWIhj1lKnjAU3xeTwJwl6P09RDKAhR4teQyscP3MkRJCTAxMWnc/UYddw=="/>
+<title>0.10.3</title>
+<pubDate>Mon, 02 Sep 2019 13:56:35 -0700</pubDate>
+<description><![CDATA[0.10.3
+
+    •    Featured page improvements
+    •    Fix error pop-up
+    •    Fix codesign issue
+    •    Bug fixes
+]]></description>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.10.3.zip" sparkle:version="1035" sparkle:shortVersionString="0.10.3" length="10125066" type="application/octet-stream" sparkle:edSignature="7+KpHPZev6AVUCvhXnxmZRGLTbuK3Yh1BqiDTKD4V99PaUhjDI8Rf+PMLSbYaKaCRacTlJkM4oWZHlZ7Oz77Bg==" sparkle:dsaSignature="MC0CFCnqQ2LsHebKF4u4/vHehHd4rFMuAhUAi5lhmPpN4Rfqd7e+ss0r3b4Ofok="/>
 </item>
+
 <item>
-<title>0.9.9</title>
-<pubDate>Sat, 10 Aug 2019 13:01:09 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.9.zip" sparkle:version="249" sparkle:shortVersionString="0.9.9" length="7051399" type="application/octet-stream" sparkle:edSignature="ykJbR4sOr8pzxSHaILRLh7RMZKinChiBznqiy8WhNx7qEl0o5P03fxKW3j+cHlWCuVHQsxNzQDq34TlXc+0nDg==" sparkle:dsaSignature="MCwCFH90qc6fQ7fW1AsWgcvHWCzfGxXFAhQfH5AiBuxN85ntXTP+3T6u69ZUgg=="/>
-<sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge249-233.delta" sparkle:version="249" sparkle:shortVersionString="0.9.9" sparkle:deltaFrom="233" length="19922" type="application/octet-stream" sparkle:edSignature="45yULIyaIOT2qsdi3cEtobEE7OQFMafxllUerKUf4xDaF0Ij7auViKZZAPq5cXeWfGeMX1hubgNTVLSdP6GICg==" sparkle:dsaSignature="MC4CFQC9ai0Odba7JohLgW4NSc6uBlRs9wIVAKO/J/isXz+kf1bGZS0XdZO2oBHu"/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge249-225.delta" sparkle:version="249" sparkle:shortVersionString="0.9.9" sparkle:deltaFrom="225" length="20353" type="application/octet-stream" sparkle:edSignature="cwlONcAfdSvLLWnviG6++7Hj+fNziy3QgNG6vJs/TCaYP/1mns7x/vD9/8ZYa6lj2khW2xcsTd12jymbnhphDQ==" sparkle:dsaSignature="MC0CFQCzZe6P4c0HovI0vUUxuSzvqKgDBwIUNedsEv7g/8vBc4RINkk5zk4d6xM="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge249-169.delta" sparkle:version="249" sparkle:shortVersionString="0.9.9" sparkle:deltaFrom="169" length="144830" type="application/octet-stream" sparkle:edSignature="L5cpmggIxvHQ2WGtWIMP4BvnGBvsjxjLIkJ1FraehEuY0rJr4W7TDFnyH4wl4JQwzCNe/8ZJF/zhyS1gadwJCw==" sparkle:dsaSignature="MC4CFQChVRauVJqiFCyzvmNBr6jf4nnlEAIVALmpr7cb+aJDvBNPDwlS3N0CzIY2"/></sparkle:deltas>
+<title>0.10.2</title>
+<pubDate>Fri, 30 Aug 2019 16:04:41 -0700</pubDate>
+<description><![CDATA[0.10.2
+
+	•	Fix install error if .zip contained __MACOS folder
+	•	Bug fixes
+	•	Updated preferences tab UI]]></description>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.10.2.zip" sparkle:version="962" sparkle:shortVersionString="0.10.2" length="10334575" type="application/octet-stream" sparkle:edSignature="RJIrERe0YVGITomWMwXg8vPdiNqf8mzUiRwZp6XFJWPqOXbLScsrKljR1qX7x4qTOAb+D9xb3BwL8V+VjQa5Cw==" sparkle:dsaSignature="MC0CFQC1F5+Nz55t1NYO1VX5a5bg1xaGTwIUKX7VhJDZ71+rnvT1SKtyG6bAdeQ="/>
 </item>
-<item>
-<title>0.9.5</title>
-<pubDate>Sat, 10 Aug 2019 23:49:37 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="169" sparkle:shortVersionString="0.9.5" length="10334575" type="application/octet-stream" sparkle:edSignature="RJIrERe0YVGITomWMwXg8vPdiNqf8mzUiRwZp6XFJWPqOXbLScsrKljR1qX7x4qTOAb+D9xb3BwL8V+VjQa5Cw==" sparkle:dsaSignature="MCwCFC5n7QiB0ai7ZCV120lLnJ39CzhgAhQk9Uw3+ir2lNKeuUaHhauDC8jkYg=="/>
-</item>
-<item>
-<title>0.9.10</title>
-<pubDate>Sat, 10 Aug 2019 23:49:37 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.10.zip" sparkle:version="363" sparkle:shortVersionString="0.9.10" length="8953512" type="application/octet-stream" sparkle:edSignature="wXFZId3dW7g4MyMVhJpMsxpJ0ctAEgdXkB3elxdberrLLjUrlq0wc9SAYtPUF+gh8iV8rea2VtJPT4fD3z35Cw==" sparkle:dsaSignature="MC0CFQCLZ0Ivpcg+2D9kzTVvgS4dk7MMrAIUZTo0gkUA+T7KKpS1m5ItwcuMLCU="/>
-<sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge363-249.delta" sparkle:version="363" sparkle:shortVersionString="0.9.10" sparkle:deltaFrom="249" length="1876770" type="application/octet-stream" sparkle:edSignature="R2qkAkXoDV7620uKlwdlEvgDpQktttMlLe28suZKj55N9I0/aTXCPk4dBgXZir4pLym2WhAYlqGOQ+bWu1vtBw==" sparkle:dsaSignature="MC0CFHnYl0XgSA7DU3GMprMQ5LcFoGkdAhUAo/Smhd6wsPiI+o1ptL8WyE9CRYs="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge363-233.delta" sparkle:version="363" sparkle:shortVersionString="0.9.10" sparkle:deltaFrom="233" length="1878471" type="application/octet-stream" sparkle:edSignature="7XyWx8tB60BbLTwx5mAcMNGa2Lf3Z8fVNH17a7Hd6fZr0d+OrpuO8kPxCPCRbaVtHCPxGY6iBfk0zSCJqEDaCg==" sparkle:dsaSignature="MC0CFQDGlerzhYhpF7fMMWKIotAUNqcpJQIUCP4/YZOAjicvZNJX54tz0L4q6+A="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge363-225.delta" sparkle:version="363" sparkle:shortVersionString="0.9.10" sparkle:deltaFrom="225" length="1878800" type="application/octet-stream" sparkle:edSignature="pCyW+uAGas7xIzMuXB5qiKYa9qdT5GH2X/JMgB5qTE84Vwct6cUQ74IaG8xZBmsmYnl1BkoF2OmFB0PcjOiSCg==" sparkle:dsaSignature="MC0CFEhH+aStpSqOBi998Rmm/yEmSLpVAhUAm6mxVyF0pv6WCnLf19XHDiDlM88="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge363-169.delta" sparkle:version="363" sparkle:shortVersionString="0.9.10" sparkle:deltaFrom="169" length="1963723" type="application/octet-stream" sparkle:edSignature="h6u0lSBgN06GSr2u+Pl9hXpfKCn8crjqBOiYV4Y1xLLwuyC22QDzk6zarx6x7jQSrbPww5sTaDFLjSNWwzM7Cw==" sparkle:dsaSignature="MC4CFQC+esYeNzHQW/cAkb5qZKV/h0k9TgIVAKq6LsE7fRkkZRZ0w88NelkvsFtV"/></sparkle:deltas>
-</item>
-<item>
-<title>0.9.11</title>
-<pubDate>Tue, 13 Aug 2019 17:48:37 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.11.zip" sparkle:version="437" sparkle:shortVersionString="0.9.11" length="8966220" type="application/octet-stream" sparkle:edSignature="GLgms63YyB3SccDbolZBWPYBrAmXEiCswkZ3T3RdH1qrDtxo6IKFCZUbo3ghksElGovXJnknTkE48T3EWBuNCg==" sparkle:dsaSignature="MC0CFEK7d14sDLWEeHJUIJEGsYNkBoWCAhUAlByR2/W8tV4nEJ9iHZg1BTh0ajI="/>
-<sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge437-363.delta" sparkle:version="437" sparkle:shortVersionString="0.9.11" sparkle:deltaFrom="363" length="54928" type="application/octet-stream" sparkle:edSignature="EXWwrR2b6kG0WJZKmsMGzP3H72Y/GmBn+abH35GqbjCYKKROX+7ucgjcsVcXOePDAHLeGsqN7B2vHHhoyxMSCQ==" sparkle:dsaSignature="MC4CFQCIS8fioDZToMxosYtk9Q4c6JFg2QIVAJdrfaDqCLR3YLo5NiPSi4wTreDn"/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge437-233.delta" sparkle:version="437" sparkle:shortVersionString="0.9.11" sparkle:deltaFrom="233" length="1901435" type="application/octet-stream" sparkle:edSignature="mzycZ/ncovnJMdfFeIzpqc39WjMM48Bg5Ag+uhIc52qL886n2ImvNHBo9bTyTseKcVXu+64hK8SrIVaeSQVJAw==" sparkle:dsaSignature="MCwCFFxdI2RnpOA3OYpwicthvi6cuaJFAhRU+GRqallk2DfWK1t35X9LGGwfrw=="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge437-249.delta" sparkle:version="437" sparkle:shortVersionString="0.9.11" sparkle:deltaFrom="249" length="1900307" type="application/octet-stream" sparkle:edSignature="+n/LE9LpnJq8mEW6Af/gVx4nnLITpp5nWOK4p/1ptC+fpVsBdqzoMHcZPVjtpvcZhFDjt6Qy8UFwz4HxiVZrBg==" sparkle:dsaSignature="MC0CFGZQKE3F5pc6jluVg7mSzhh1D4zTAhUAjXHhXZUqeGq6dGto3/se1G9a3CQ="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge437-169.delta" sparkle:version="437" sparkle:shortVersionString="0.9.11" sparkle:deltaFrom="169" length="1984087" type="application/octet-stream" sparkle:edSignature="h+NjBGpdWmo1NSeUCRTrNmTqif2OFJDXzDCvzZTGQfK2pviSgyEmRYrnteg/jstfOXgasnE7hfbXQG70VbjkBA==" sparkle:dsaSignature="MC0CFQChiDDMwqfRe1anj76VJ55Gfd3z1AIUKMyCKZMd6Le+44pGEtor/9YvIbk="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge437-225.delta" sparkle:version="437" sparkle:shortVersionString="0.9.11" sparkle:deltaFrom="225" length="1901839" type="application/octet-stream" sparkle:edSignature="hCfL+hsP8tiWVQ94zBpqq3UGasHR9ZUzrBa+N1GH8LRMsuPoCMLv5wqAHRJ0wuLSCsLJ5I/OTKiEc6wH4v9wAw==" sparkle:dsaSignature="MCwCFHq+73YhxUNVZsGa0FadJ4iH/QL3AhRmZtQhhAoJvqOy2VaxnAxBjCOSZg=="/></sparkle:deltas>
-</item>
+
 <item>
 <title>0.10.1</title>
 <pubDate>Thu, 15 Aug 2019 23:16:10 -0700</pubDate>
@@ -64,36 +52,18 @@
     •   UI design adjustments
     •   Download progress for featured items]]></description>
 <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.10.1.zip" sparkle:version="837" sparkle:shortVersionString="0.10.1" length="10077325" type="application/octet-stream" sparkle:edSignature="73aQ8yGeGzQvaVk9yB61NX6ScsAC/F4MHa6ua7huYnLteC9yPRz8+F1m1R6mUSexIthzCml4JVmxVKn2RYejBw==" sparkle:dsaSignature="MC0CFQCWt0hFvMB95YcStUZQj3E8KnG7XgIUBKGAComNDASn+daWcZX0mLKZs3Y="/>
-<sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge837-437.delta" sparkle:version="837" sparkle:shortVersionString="0.10.1" sparkle:deltaFrom="437" length="1334675" type="application/octet-stream" sparkle:edSignature="X2WIqke4IO9VzHQpV1m+0/4FDRywD5+1X8mVUt+wqTLskbYDPJr56cSoAenasP6ySZ1PcryK0e0QRbEMQUf2Bw==" sparkle:dsaSignature="MCwCFC5E+FlynFCw2lkOnuITGQZFoe9DAhQ4qnvBYnFDtgQOjULtSTjeP7Vrzw=="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge837-363.delta" sparkle:version="837" sparkle:shortVersionString="0.10.1" sparkle:deltaFrom="363" length="1362562" type="application/octet-stream" sparkle:edSignature="kNcmMrRZQ645DXrcVGtW81IMKSgVou2QakW7tUGStuoZlirYeKayjbyts9ziOZyMQbZ8ohIcqBjXpHU9hsLiCg==" sparkle:dsaSignature="MC0CFHu+6SKZQJsySPMWFtePPnPZX459AhUAkzly43fSOoW8tf5mN84RZoF97As="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge837-249.delta" sparkle:version="837" sparkle:shortVersionString="0.10.1" sparkle:deltaFrom="249" length="3175459" type="application/octet-stream" sparkle:edSignature="gl7ueZVfJ08dANB9F/zNzrzJ7omdJU+fBsSU3PNmFkXDonXzz5TAnlnAqTjpeOg+wd9U4DHR7xnlgSThBrDLDA==" sparkle:dsaSignature="MCwCFHVjzIM+Lxb38LDuc6NACqziYyN7AhQIHOnXUjx6GfxK4q9qjKsGT1lGYQ=="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge837-233.delta" sparkle:version="837" sparkle:shortVersionString="0.10.1" sparkle:deltaFrom="233" length="3176202" type="application/octet-stream" sparkle:edSignature="V/Y2HGoqVjdu+HmzHI2WlQIThctvdoS9u5QsQ6ezEeAT09MQAc0itKCz79mJkP87AZvASRZyAfZ8VX0RoHMbBg==" sparkle:dsaSignature="MCwCFCVGEGuDKD5OWlK8aIZUGge6JmpPAhQcCqBwFP59aUS4b/XqhrQC4gY37A=="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge837-225.delta" sparkle:version="837" sparkle:shortVersionString="0.10.1" sparkle:deltaFrom="225" length="3176513" type="application/octet-stream" sparkle:edSignature="+d7gRbVeYL9JlJhAVzSK1sdPF0KMkis2mu8qSDwyZQWbiYxftJiKMtY9bB9EPswGy8JzdiZkL6/NSboSkZIoBw==" sparkle:dsaSignature="MC0CFFxEwZN7HXxCydkk33zFebY8xuqcAhUAsC/tf9zOo+UeJ+h3o82BQQG9am4="/></sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.10.1.zip" sparkle:version="837" sparkle:shortVersionString="0.10.1" length="10077325" type="application/octet-stream" sparkle:edSignature="73aQ8yGeGzQvaVk9yB61NX6ScsAC/F4MHa6ua7huYnLteC9yPRz8+F1m1R6mUSexIthzCml4JVmxVKn2RYejBw==" sparkle:dsaSignature="MC0CFF/g3k1fYiEQJtK41PsVSUMKLckKAhUAgjq0wGUT3QQOpjZue04GZ//yGiQ="/>
 </item>
+
 <item>
-<title>0.10.2</title>
-<pubDate>Fri, 30 Aug 2019 16:04:41 -0700</pubDate>
-<description><![CDATA[0.10.2
-
-	•	Fix install error if .zip contained __MACOS folder
-	•	Bug fixes
-	•	Updated preferences tab UI]]></description>
-<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.10.2.zip" sparkle:version="962" sparkle:shortVersionString="0.10.2" length="10334575" type="application/octet-stream" sparkle:edSignature="RJIrERe0YVGITomWMwXg8vPdiNqf8mzUiRwZp6XFJWPqOXbLScsrKljR1qX7x4qTOAb+D9xb3BwL8V+VjQa5Cw==" sparkle:dsaSignature="MCwCFD2sGIpsmWe9AqrdWZMJBoM6BwpqAhQSOAa8aVBLbXMwLMEUEKFfSV6lPQ=="/>
+<title>0.9.11</title>
+<pubDate>Tue, 13 Aug 2019 17:48:37 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_0.9.11.zip" sparkle:version="437" sparkle:shortVersionString="0.9.11" length="8966220" type="application/octet-stream" sparkle:edSignature="GLgms63YyB3SccDbolZBWPYBrAmXEiCswkZ3T3RdH1qrDtxo6IKFCZUbo3ghksElGovXJnknTkE48T3EWBuNCg==" sparkle:dsaSignature="MC4CFQCWSiBjjJoQ57DURVfRMc+U2QB1AQIVAKRqiBATeB8RHhYq3PsnD3R3avXT"/>
 <sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge962-837.delta" sparkle:version="962" sparkle:shortVersionString="0.10.2" sparkle:deltaFrom="837" length="1213720" type="application/octet-stream" sparkle:edSignature="8E0P9BvEE/qTcN72x12pVa1wu9Z6uRTP1rkJ+Jcp5b9X4HUshIanNCfqqfjJ9jef/sWTUs3e97R0RX8plCrRDQ==" sparkle:dsaSignature="MC4CFQC65yzr+ZWHSC9K53w3i16rgoXFiQIVAJLDNRtVqIfB2uDCOQ+uwIYTLFpZ"/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge962-437.delta" sparkle:version="962" sparkle:shortVersionString="0.10.2" sparkle:deltaFrom="437" length="1719778" type="application/octet-stream" sparkle:edSignature="23bIc7Ld4FfZk+2NUPYfi/z2I1fijv5+q6WtiM5DTr+0R/Bn9P1y2t5g0FuEL5eyPeF7hUgdzzBj51xhZnffAw==" sparkle:dsaSignature="MC4CFQC3jVZKaR10v0V3HrsBEnlz3bRwQwIVAKettCgTvTRszvsLnuQn3MOn2FMD"/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge962-363.delta" sparkle:version="962" sparkle:shortVersionString="0.10.2" sparkle:deltaFrom="363" length="1731430" type="application/octet-stream" sparkle:edSignature="X8vyIpNBa06KI85Dh+0HuMVw/vc0IaQeE0CWGVSv67WhG9oeuf6s7GvzB3dEnfZoNm+DGGrnUZy9ByWWNMkbDA==" sparkle:dsaSignature="MCwCFDxTJ3lbBbRkp3HEbhnRqyvLItjLAhQgX3vFZkJGx4Z0ioWy8PjqVc+0nw=="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge962-249.delta" sparkle:version="962" sparkle:shortVersionString="0.10.2" sparkle:deltaFrom="249" length="3537255" type="application/octet-stream" sparkle:edSignature="v8xSxYi3cyC6293ODZk6icxJvkoLwFcoJzQ5ZvuEDvF1dZkVjeFvInldRDlODrKQ0hWibDk08eTpZwZ/XjDmDg==" sparkle:dsaSignature="MC0CFHgMM83Uf7mKUjCR5T+koMa1TdFkAhUAhLyxOe79/1XvPIrnV21mrjA16Dw="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge962-233.delta" sparkle:version="962" sparkle:shortVersionString="0.10.2" sparkle:deltaFrom="233" length="3537022" type="application/octet-stream" sparkle:edSignature="WiTdT0Y9Y0iSE09N98PS+o+Yk9r/SO0t6tFuCbC0M2sMLuSjY3xeN5XRYHARIOJQHgCs90U3bKgIRz2G241KDw==" sparkle:dsaSignature="MC0CFB1xI7i+eI4ypKPKdJ2qvlYMc2mPAhUAia1w4TO2805tleBCItH3/eE1d1I="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge962-225.delta" sparkle:version="962" sparkle:shortVersionString="0.10.2" sparkle:deltaFrom="225" length="3537382" type="application/octet-stream" sparkle:edSignature="vbTSzm64wbk0/0QCTGyBVa+ZCC4Q1y0HLni0ECB+9uyXo4ed5i0xhNUrR6Pd7ltGqYJteeNHEnEVUwl2tZNBBg==" sparkle:dsaSignature="MCwCFE+l04SDez5UNSM2d0aymPw/5RvgAhRSJuT6+dl0L4q4KZiouSiUPIPtTw=="/></sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge437-363.delta" sparkle:version="437" sparkle:shortVersionString="0.9.11" sparkle:deltaFrom="363" length="54928" type="application/octet-stream" sparkle:edSignature="EXWwrR2b6kG0WJZKmsMGzP3H72Y/GmBn+abH35GqbjCYKKROX+7ucgjcsVcXOePDAHLeGsqN7B2vHHhoyxMSCQ==" sparkle:dsaSignature="MC0CFQCjs/X0L6tKfD2L1Ecut43811OvtwIUHH1kseGzDZ+iXG0buGBLtQNo2hA="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge437-233.delta" sparkle:version="437" sparkle:shortVersionString="0.9.11" sparkle:deltaFrom="233" length="1901435" type="application/octet-stream" sparkle:edSignature="mzycZ/ncovnJMdfFeIzpqc39WjMM48Bg5Ag+uhIc52qL886n2ImvNHBo9bTyTseKcVXu+64hK8SrIVaeSQVJAw==" sparkle:dsaSignature="MC0CFDWE44Ye9zCDCcfIJBUkDZe2FFObAhUAnYtnw7XM1Ko+DhwQhpgCT38aP7M="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge437-249.delta" sparkle:version="437" sparkle:shortVersionString="0.9.11" sparkle:deltaFrom="249" length="1900307" type="application/octet-stream" sparkle:edSignature="+n/LE9LpnJq8mEW6Af/gVx4nnLITpp5nWOK4p/1ptC+fpVsBdqzoMHcZPVjtpvcZhFDjt6Qy8UFwz4HxiVZrBg==" sparkle:dsaSignature="MCwCFCkyjEnL3c2pCDjTwH3FJMVfuxkOAhQ6ShvR/a1F63sIz7mNOYH7qQViJw=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge437-229.delta" sparkle:version="437" sparkle:shortVersionString="0.9.11" sparkle:deltaFrom="229" length="1901555" type="application/octet-stream" sparkle:edSignature="y/sLZzdIdG0LPXvQxwVQAvtsIQtSWsNDXUpqSBE79NUoYc0/dfEeCCy8oR08k9QtRxGQb0S9I7KQEtsIh1trBA==" sparkle:dsaSignature="MC0CFDHx/7YO8B212XX52leuX/20fapvAhUAoHjJSGzZupMk+6Uw+XXX9o+JYC4="/></sparkle:deltas>
 </item>
-
-
-
-
-
-
 </channel></rss>

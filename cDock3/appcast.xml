@@ -6,9 +6,9 @@
 <pubDate>Mon, 02 Sep 2019 12:29:01 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.3.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.3.zip" sparkle:version="6086" sparkle:shortVersionString="3.0.3" length="12458568" type="application/octet-stream" sparkle:edSignature="GbDrzhZlMeW0AksWlMaicx1CjiR56XAVXA102rgvVnz/PBZfR//N60yqdmFZKZ7sL0/jbkLgqhiMWEdScRTiDw==" sparkle:dsaSignature="MCwCFCs6mayTahtNlasCs3D/smfxF6xEAhQWyDMgtWULrVk1JqDRVoaJ4CD1/Q=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.3.zip" sparkle:version="6086" sparkle:shortVersionString="3.0.3" length="12458568" type="application/octet-stream" sparkle:edSignature="GbDrzhZlMeW0AksWlMaicx1CjiR56XAVXA102rgvVnz/PBZfR//N60yqdmFZKZ7sL0/jbkLgqhiMWEdScRTiDw==" sparkle:dsaSignature="MCwCFEPXqDxJrUIbCtq9apMWhTFF+95FAhR6P9qlum1JljhRH38ZnpPaHxmt/A=="/>
 <sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6086-6067.delta" sparkle:version="6086" sparkle:shortVersionString="3.0.3" sparkle:deltaFrom="6067" length="157678" type="application/octet-stream" sparkle:edSignature="0owlvDiDS4NAa4cb8VFq/MTKusga0iUO9pNuWonr/tQqaAdZ1Dr2nEuNFtj19bnbWDpE2VAlUAiFOhkOl7ozCQ==" sparkle:dsaSignature="MC0CFQCrn4HMPahOkLbjmf5DfExYunDewwIUdI9alq3qUWnzPlReszlz33DTNbs="/></sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6086-6067.delta" sparkle:version="6086" sparkle:shortVersionString="3.0.3" sparkle:deltaFrom="6067" length="157678" type="application/octet-stream" sparkle:edSignature="0owlvDiDS4NAa4cb8VFq/MTKusga0iUO9pNuWonr/tQqaAdZ1Dr2nEuNFtj19bnbWDpE2VAlUAiFOhkOl7ozCQ==" sparkle:dsaSignature="MCwCFHySsxr+vJZ3wF2foWal5rcMiLKgAhQpZyJf/jvSRZxbrWcMRmHIhi+myQ=="/></sparkle:deltas>
 </item>
 
 <item>
@@ -16,6 +16,6 @@
 <pubDate>Sun, 01 Sep 2019 14:42:31 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.1.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.1.zip" sparkle:version="6067" sparkle:shortVersionString="3.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MCwCFG7KARB+IRuPUN6j3jIxskWR7yg6AhQtI12nahuqr9kipAkh2+0YgICp/A=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.1.zip" sparkle:version="6067" sparkle:shortVersionString="3.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MC0CFGx4PRUq1AAiC+8Tq/Qh/nnzQCQmAhUAjDKA76RMAhzc1S5eXlSBwdqxpBc="/>
 </item>
 </channel></rss>

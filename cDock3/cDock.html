@@ -1,0 +1,290 @@
+3.0.4
+
+    •   Bug fixes
+
+3.0.3
+
+    •   Important Note ⚠️
+    ⁃   This version of cDock requires SIP remain off in order to function
+    ⁃   If you wish you can still run partial SIP protection using the following command
+    ⁃   csrutil enable --without debug –without fs
+
+    •   New
+    ⁃   Improved Mojave support
+    ⁃   Catalina support
+    ⁃   Switched from SIMBL to Mach Inject for loading into Dock process
+    ⁃   New SIP warning sheet
+    ⁃   Delta updates
+
+    •   Fixed
+    ⁃   Some Dock crashes
+    ⁃   Fix crash if blacklisted item no longer exists
+    ⁃   Improved mission control automatically showing desktop previews
+    ⁃   Using newer Paddle
+    ⁃   Paddle payment window not attached to main window
+    ⁃   Removed DevMate (product was discontinued)
+    ⁃   Switched back to Sparkle for updates
+    ⁃   Hopefully fixed start at login issues
+    ⁃   General bug fixes
+    ⁃   Updated version number to 3.x.x to match current branding
+    ⁃   Fix not loading issue with 3.0.1
+
+1.2.0
+
+    •   New
+    ⁃   Beta updates preference
+    ⁃   Beta updates will be always enabled on beta versions of MacOS
+    ⁃   Added some retina themes (thanks to https://github.com/Wandmalfarbe)
+    ⁃   Better application hiding view
+    ⁃   Purchases Tab
+
+    •   Fixed
+    ⁃   App repeatedly restarting when looking for an existing license
+    ⁃   Using newer Paddle and Devmate frameworks
+    ⁃   Fixes purchase and feedback windows in dark mode on Mojave
+
+1.1.3
+
+    •   New
+    ⁃   Send recovery email in preferences tab
+    ⁃   Option to force Dark menus in the Dock
+    ⁃   cDock registers for all accounts on the computer
+
+    •   Fixed
+    ⁃   Mojave
+    ⁃   Crashes on Beta 6 and up
+    ⁃   Separator layers not pinning on 10.14
+    ⁃   Recents separator layer uses separator layer settings
+    ⁃   Several crashes relating to icon reflections
+    ⁃   Mission Control desktop labels showing the wrong color
+
+1.1.2
+
+    •   Fixed
+    ⁃   cDock not opening on non-admin account
+    ⁃   Document folders reflections not updating
+
+1.1.0
+
+    •   New
+    ⁃   Hide any application from the Dock
+    ⁃   Ability to add Flex spacer tiles
+    ⁃   Activate/Deactivate license button
+
+    •   Fixed
+    ⁃   Hot corners failing to open Mission control
+    ⁃   Handoff icon badge displaying text instead of icon
+    ⁃   Hiding Finder and Trash are now separate from theming
+    ⁃   Mission control auto-show and Launchpad dots are now separate from theming
+    ⁃   Trash can badge option is now separate from theming
+    ⁃   Dock size shrinking to minimum when changing Dock position
+    ⁃   Font related crash
+    ⁃   Fix error when scrolling on System Integrity Protection video
+    ⁃   Updated to latest Paddle and Dev-Mate
+    ⁃   Bug fixes
+
+1.0.4
+
+    •   Fixed
+    ⁃   cDock Helper crash on launch
+    ⁃   Improved automatically expanding spaces when entering Mission Control to be instant
+
+1.0.3
+
+    •   New
+    ⁃   Show/Hide iCloud Drive icon in Dock
+    ⁃   Show/Hide AirDrop icon in Dock
+    ⁃   Show/Hide Launchpad new item dot
+    ⁃   Launchpad adjust row and column count
+    ⁃   Ability to delete saved Dock backups
+    ⁃   Button to show license
+
+    •   Fixed
+    ⁃   Dock preference backups not showing in some cases
+    ⁃   Indicator miss-alignment on Left / Right positioning
+    ⁃   Conflict with TotalSpaces
+    ⁃   Case where app could hang when communicating with the Dock
+    ⁃   Case where Dock would freeze when restarting and loading the cDock bundle
+    ⁃   Case where helper could crash when trying to load the cDock bundle
+    ⁃   cDock Helper not using app icon
+    ⁃   cDock Helper not checking for updates
+    ⁃   Updated PaddleFramework to latest version
+    ⁃   Unhandled exception when trying to use non RGBA color picker
+    ⁃   Issue where switching themes back and forth would decrease slider values
+    ⁃   Issue where Left / Right position dock would draw custom indicator images incorrectly
+    ⁃   Show Finder and Show trash default to on if the key does not exist in the theme
+    ⁃   Bug fixes
+
+1.0.2
+
+    •   New
+    ⁃   Extended trial to 2 weeks
+
+    •   Fixed
+    ⁃   Corrected a few typos
+    ⁃   Update a few instances of linking to http:// > https://
+    ⁃   Revert StartAtLoginController change 
+    ⁃   Fix system component update failing
+    ⁃   Bug fixes
+
+1.0.1
+
+    •   New
+    ⁃   Pinning the dock to an edge of the screen
+    ⁃   Hide Finder tile
+    ⁃   Hide Trash tile
+    ⁃   Show item count badge on Trash tile
+    ⁃   Color icon badges background
+    ⁃   Color application switcher background
+    ⁃   Color Mission Control background
+    ⁃   Badges and label text will change to be readable based on background color
+    ⁃   Control some default Dock settings without restarting the Dock
+    ⁃   More options for showing icon reflections
+    ⁃   Dim inactive icons
+    ⁃   Select pictures for background and indicator
+    ⁃   Small spacer tiles
+    ⁃   Pick your own images for dock and indicator backgrounds (.png format)
+    ⁃   Add or Remove themes without restarting cDock
+    ⁃   Automatically expand spaces when entering Mission Control
+    ⁃   More tooltips
+    ⁃   Better theme management
+    ⁃   New themes
+    ⁃   New Icon
+    ⁃   Updated SIMBLManger
+    ⁃   Crash protection (in case a macOS update causes repeated Dock crashing)
+
+    •   Fixed
+    ⁃   Dock crash when switching between some themes
+    ⁃   3D option not working in some cases
+    ⁃   Issue with Vertical Full screen dock and magnification enabled
+    ⁃   Label background not fully applying on folder views
+    ⁃   Lots of changes to theme not applying until Dock restart
+    ⁃   Better Dock reloading
+    ⁃   Better Dock layering (Badge > Icon > Indicator > Reflection)
+    ⁃   Issues with reduced transparency enabled
+    ⁃   Helper Application is now CodeSigned
+
+    •   Changes
+    ⁃   Now using StartAtLoginController for login item
+    ⁃   Dev-Mate for updates, bug reporting, feedback, and logging
+    ⁃   Paddle for sales and logging
+    ⁃   Changes to theme preferences structure (old themes will need to be updated)
+    ⁃   User Interface redesign
+    ⁃   Updated PFMoveApplication
+    ⁃   Removed Fishhook
+    ⁃   Bug fixes and Performance improvements
+
+0.12.4
+
+    •   Bug fixes
+
+0.12.2
+
+    •   Bug fixes
+
+0.12.1
+
+    •   10.12 support
+    •   Hopefully lots of bug fixes
+    ⁃   Fix all icons being dark
+    ⁃   Fix 10.9 not highlighting selected tab
+    ⁃   Fix 10.9 SIMBLAgent crash
+    ⁃   Fix changelog not scrolling
+    ⁃   Fix some about window buttons not doing anything
+    •   Removed WAYWindow
+    •   Added some licenses
+
+0.11.2
+
+    •    Updated UI
+    ⁃   New theming tab layout
+    ⁃   New about tab layout
+    ⁃   New Donate button
+    ⁃   Moved some items from prefs > about
+    ⁃   Removed cDock2 banner
+    ⁃   Altered tabs
+    •   Code clean-up
+    •   Enabled update interval preference setting
+    •   Bugfixes
+    •   Removed icon from bundle (reduced size)
+
+0.10.4
+
+    •   Icon reflections update when app icon changes
+    •   Fix issue where icon reflection could disappear after bouncing
+    •   Fix icon height issue
+    •   Updated sparkle framework
+    •   Bugfixes
+    •   Removed old updater
+
+0.10.3
+    •   Bugfixes
+    •   Merge cDock agent and cDock installer
+    •   cDock agent re-write (cDock-Helper)
+    •   Lower agent energy use
+    •   Faster inject after killing dock
+    •   Fixed (some) OS X 10.9 bundle bugs
+    •   Fixed OS X 10.9 dock settings bugs
+    •   UI Changes
+    •   Option to hide Donate button
+    •   Check for updates to menubar
+    •   Added full size separator toggle
+    •   Restart dock button added to theme view
+    •   Disable theming button moved to theme view
+    •   Reset (delete) all themes option
+    •   Save window position toggle
+    •   Instant tooltips toggle
+    •   Future updates via Sparkle
+    •   Auto-updates is default setting
+    •   New about tab
+    •   Changed donation link
+    •   Indicators moved to top layer
+    •   Use org.w0lf.cDockGUI for all GUI preferences
+    •   Visit website button
+    •   Removed PFAboutWindow
+    •   Removed cDock-Agent
+    •   Removed cDock-Installer
+
+0.9.11
+    •   Added more options to dock settings tab
+    •   Added translate button to menubar
+    •   All options in dock settings tab now enabled
+    •   Shortened long tool tip popover time
+    •   Removed steppers in dock settings tab
+    •   Changelog text not editable
+    •   Minor UI adjustments
+
+0.9.10
+    •   Improved dock settings tab
+    •   Show in Finder reveals theme folder
+    •   Changelog shows in preferences tab
+    •   Reset dock moved to dock settings tab
+    •   Minor UI adjustments
+
+0.9.9
+    •   Delete theme option
+    •   Fix icon reflection not loading on start
+    •   Fix icon reflection when opening apps not in dock
+
+0.9.8
+    •   Fix issue with bundle not being updated properly 
+    •   Fix window not being fully setup before displaying
+    •   Fix app freezing if updating bundle
+    •   Fix updater not restarting cDock
+    •   Fix updater leaving agent child processes running
+    •   Fix cDock agent looking for wrong updates
+    •   Fix Show icon reflection not turning off without Dock reset
+    •   Updated credits
+    •   Dock icon size minimum changed to 8 from 16
+    •   Restart Agent when cDock opens
+    •   Main window remembers position on screen
+
+0.9.7
+    •   Offer to move to Applications folder
+    •   Fix update issue
+
+0.9.6
+    •   Added default theme
+    •   Creating a theme uses default instead of pink theme
+    •   Use standard window menubar item
+    •   Misc adjustments

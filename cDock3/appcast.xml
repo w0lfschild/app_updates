@@ -5,17 +5,84 @@
 <title>3.0.3</title>
 <pubDate>Mon, 02 Sep 2019 12:29:01 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.3.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.3.zip" sparkle:version="6086" sparkle:shortVersionString="3.0.3" length="12458568" type="application/octet-stream" sparkle:edSignature="GbDrzhZlMeW0AksWlMaicx1CjiR56XAVXA102rgvVnz/PBZfR//N60yqdmFZKZ7sL0/jbkLgqhiMWEdScRTiDw==" sparkle:dsaSignature="MCwCFEPXqDxJrUIbCtq9apMWhTFF+95FAhR6P9qlum1JljhRH38ZnpPaHxmt/A=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.3.zip" sparkle:version="6086" sparkle:shortVersionString="3.0.3" length="12458568" type="application/octet-stream" sparkle:edSignature="GbDrzhZlMeW0AksWlMaicx1CjiR56XAVXA102rgvVnz/PBZfR//N60yqdmFZKZ7sL0/jbkLgqhiMWEdScRTiDw==" sparkle:dsaSignature="MC0CFQDEVKaOz4OdjwODUGNPScN8ZT/ZrQIULBNtRuNhdxKUba1o5+vWXlv8neM="/>
 <sparkle:deltas>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6086-6067.delta" sparkle:version="6086" sparkle:shortVersionString="3.0.3" sparkle:deltaFrom="6067" length="157678" type="application/octet-stream" sparkle:edSignature="0owlvDiDS4NAa4cb8VFq/MTKusga0iUO9pNuWonr/tQqaAdZ1Dr2nEuNFtj19bnbWDpE2VAlUAiFOhkOl7ozCQ==" sparkle:dsaSignature="MCwCFHySsxr+vJZ3wF2foWal5rcMiLKgAhQpZyJf/jvSRZxbrWcMRmHIhi+myQ=="/></sparkle:deltas>
+<description><![CDATA[3.0.3
+
+  • Important Note ⚠️
+    ⁃ This version of cDock requires SIP remain off in order to function
+    ⁃ If you wish you can still run partial SIP protection using the following command
+    ⁃ csrutil enable --without debug –without fs
+
+  • New
+    ⁃ Improved Mojave support
+    ⁃ Catalina support
+    ⁃ Switched from SIMBL to Mach Inject for loading into Dock process
+    ⁃ New SIP warning sheet
+    ⁃ Delta updates
+
+  • Fixed
+    ⁃ Some Dock crashes
+    ⁃ Fix crash if blacklisted item no longer exists
+    ⁃ Improved mission control automatically showing desktop previews
+    ⁃ Using newer Paddle
+    ⁃ Paddle payment window not attached to main window
+    ⁃ Removed DevMate (product was discontinued)
+    ⁃ Switched back to Sparkle for updates
+    ⁃ Hopefully fixed start at login issues
+    ⁃ General bug fixes
+    ⁃ Updated version number to 3.x.x to match current branding
+    ⁃ Fix not loading issue with 3.0.1
+]]></description>
 </item>
 
 <item>
 <title>3.0.1</title>
 <pubDate>Sun, 01 Sep 2019 14:42:31 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.1.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.1.zip" sparkle:version="6067" sparkle:shortVersionString="3.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MC0CFGx4PRUq1AAiC+8Tq/Qh/nnzQCQmAhUAjDKA76RMAhzc1S5eXlSBwdqxpBc="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.1.zip" sparkle:version="6067" sparkle:shortVersionString="3.0.1" length="12456021" type="application/octet-stream" sparkle:edSignature="uUEJe1r9FMjghKiTbUf8m5MtwJ6dZNWRaaPZxKEO/lB1z7SX3xxYLWOgZCXusNvaKho7w2fkqqqXkVHlsFykAg==" sparkle:dsaSignature="MCwCFD7MU94b/4hvkTuXuQFFXLXQtbLUAhRztdGDrajAUCHYO/jNWdtFQtTPjA=="/>
+<description><![CDATA[3.0.1
+
+  • Important Note ⚠️
+    ⁃ This version of cDock requires SIP remain off in order to function
+    ⁃ If you wish you can still run partial SIP protection using the following command
+    ⁃ csrutil enable --without debug –without fs
+
+  • New
+    ⁃ Improved Mojave support
+    ⁃ Catalina support
+    ⁃ Switched from SIMBL to Mach Inject for loading into Dock process
+    ⁃ New SIP warning sheet
+    ⁃ Delta updates
+
+  • Fixed
+    ⁃ Some Dock crashes
+    ⁃ Fix crash if blacklisted item no longer exists
+    ⁃ Improved mission control automatically showing desktop previews
+    ⁃ Using newer Paddle
+    ⁃ Paddle payment window not attached to main window
+    ⁃ Removed DevMate (product was discontinued)
+    ⁃ Switched back to Sparkle for updates
+    ⁃ Hopefully fixed start at login issues
+    ⁃ General bug fixes
+    ⁃ Updated version number to 3.x.x to match current branding
+
+]]></description>
 </item>
+<item>
+<title>3.0.4</title>
+<pubDate>Tue, 24 Sep 2019 20:09:53 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.4.zip" sparkle:version="6143" sparkle:shortVersionString="3.0.4" length="14144505" type="application/octet-stream" sparkle:edSignature="083/YcnxZy5J+CNdclhhMNcvEnodOuwxwiDAFqDxTIN/Pc09QTy8wkODXOG6Q4eGyim5sm3RZpD/j3VkINWhCA==" sparkle:dsaSignature="MC4CFQDAmYs+1tNBkvXBRqL2hUOjJoxU6gIVAKI+SVnLMHrA71H41F+RJRnGje+x"/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6143-6086.delta" sparkle:version="6143" sparkle:shortVersionString="3.0.4" sparkle:deltaFrom="6086" length="1790809" type="application/octet-stream" sparkle:edSignature="IhUqbV2bzGOxUGXAviAuTJCKLjAo0d+CfbsbsAt/1sj9Dbhfw2mTxpickuc6qc52b0whxP4OmOL/WTDEnAqJCQ==" sparkle:dsaSignature="MC0CFQC/0ivYA1wyIJnvQaroD3jI62zpHAIUVz4J1A/aP/SUtjcZUtFoAO49R24="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6143-6067.delta" sparkle:version="6143" sparkle:shortVersionString="3.0.4" sparkle:deltaFrom="6067" length="1871967" type="application/octet-stream" sparkle:edSignature="a2Ckocoi9Stts4ictOyEABQ6cofi3lRYPcdU+7ShCrS2iZAse7D7sxpuJxszGR+/Z48dEJdZ2pN7pCN8ydC8CQ==" sparkle:dsaSignature="MC0CFQCyZ74cQqhhp9FawQXUXHSVkjw7mgIUR4FcWe2NTgMA0VzlfkPpJ+YIhOw="/></sparkle:deltas>
+
+<description><![CDATA[3.0.4
+
+    •   Bug fixes
+    ]]></description></item>
+
 </channel></rss>

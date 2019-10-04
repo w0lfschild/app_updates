@@ -1,7 +1,7 @@
 #! /bin/bash
 
 _path=$(dirname "$0")
-_root=$(driname $_path)
+_root=$(dirname $_path)
 _file="${_path##*/}"
 
 # Update appcast

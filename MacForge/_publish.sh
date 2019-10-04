@@ -1,10 +1,11 @@
 #! /bin/bash
 
 _path=$(dirname "$0")
+_root=$(driname $_path)
 _file="${_path##*/}"
 
 # Update appcast
-"$_path"/bin/generate_appcast "/Users/w0lf/Library/Mobile Documents/com~apple~CloudDocs/dsa_priv.pem" "$_path"
+"$_root"/bin/generate_appcast "/Users/w0lf/Library/Mobile Documents/com~apple~CloudDocs/dsa_priv.pem" "$_path"
 
 # Push to GitHub
 cd "$_path"

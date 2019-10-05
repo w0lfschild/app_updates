@@ -7,7 +7,7 @@
 <description><![CDATA[<p>3.0.6</p>
 <p style="padding-left: 30px;">- Bug fixes<br /> - Activations should now work on all users of the same computer</p>]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.6.zip" sparkle:version="6195" sparkle:shortVersionString="3.0.6" length="14300568" type="application/octet-stream" sparkle:edSignature="3hviGnynnpi1JLUWg8xYq1l0QGfrQTAFg43suUWzpGEy72b6xkGzzsTFZpKwDfPyQpaTAWRxbYTxQpVPQeO+BQ==" sparkle:dsaSignature="MCwCFE5BZIW9bG0g+fLM0+Bq54DRv+bXAhQpWt4Psg5yyUPC0kayQ2ZBAEUQ3A=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.6.zip" sparkle:version="6195" sparkle:shortVersionString="3.0.6" length="14300568" type="application/octet-stream" sparkle:edSignature="3hviGnynnpi1JLUWg8xYq1l0QGfrQTAFg43suUWzpGEy72b6xkGzzsTFZpKwDfPyQpaTAWRxbYTxQpVPQeO+BQ==" sparkle:dsaSignature="MCwCFCOUWIjzGSDUsq2doVv3ektCgTrSAhRcUhoRqCgVc9H8By2YJBVSw6rg/Q=="/>
 <sparkle:deltas>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6195-6177.delta" sparkle:version="6195" sparkle:shortVersionString="3.0.6" sparkle:deltaFrom="6177" length="166667" type="application/octet-stream" sparkle:edSignature="mNufiDfYVJ5IT+PVC07GmF/CgEgSZG4CL1aCEBVGOryM5PhjSp5D8GhbHyUhP0sttqhadBxJ5Rk3rKEYleMQCA==" sparkle:dsaSignature="MCwCFEVVrFB8S0dx6p+Yejt0gfYmsSRmAhQRA5thRaQ6aT4q1MeYhj3N0oDTHw=="/>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6195-6143.delta" sparkle:version="6195" sparkle:shortVersionString="3.0.6" sparkle:deltaFrom="6143" length="2082798" type="application/octet-stream" sparkle:edSignature="IV59G9/Jg8U7EsTMIKyWx4C+/HXdr7TLSzjBC/aGa3F5cEyyq6HF5dW0zU4V5paPSkG3KKjX/AZ9aJ2ZoCYPAA==" sparkle:dsaSignature="MC0CFQCIyjGIfM+6YVHW2tVsnouAkT6TWwIUfEk69N/y68rJ3/2NdpXfUpGNbaI="/>
@@ -23,15 +23,16 @@
 <p style="padding-left: 30px;">- Bug fixes<br />- Activations should now work on all users of the same computer</p>
     ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.5.zip" sparkle:version="6177" sparkle:shortVersionString="3.0.5" length="14295388" type="application/octet-stream" sparkle:edSignature="BggNcm7iDY57yspyz6JpQgkN9QIHYTUHsXfV0HpvmxJNKRY9KkOAO9ko8mNO2UqnS0PMZlxMkyDxeU+reQ66Cw==" sparkle:dsaSignature="MC4CFQCskEs0QSHs1Bst/O3k03kRpqH7uwIVAKARMotxRCYiHRVYWZHIQ1xjsgdX"/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.5.zip" sparkle:version="6177" sparkle:shortVersionString="3.0.5" length="14295388" type="application/octet-stream" sparkle:edSignature="BggNcm7iDY57yspyz6JpQgkN9QIHYTUHsXfV0HpvmxJNKRY9KkOAO9ko8mNO2UqnS0PMZlxMkyDxeU+reQ66Cw==" sparkle:dsaSignature="MCwCFHNv3230YDKn+mYNNOrMLR6TtGBwAhRG9UAs7tfM6E/kWG9VFcIrbUx9rg=="/>
 </item>
 
 <item>
 <title>3.0.4</title>
 <pubDate>Wed, 02 Oct 2019 23:14:33 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.zip" sparkle:version="6143" sparkle:shortVersionString="3.0.4" length="14300568" type="application/octet-stream" sparkle:edSignature="3hviGnynnpi1JLUWg8xYq1l0QGfrQTAFg43suUWzpGEy72b6xkGzzsTFZpKwDfPyQpaTAWRxbYTxQpVPQeO+BQ==" sparkle:dsaSignature="MC0CFBKZsdSwUuiT0Nim+JCkuRFW7KOKAhUAu9JfThAJcv34oERgRhg+ouBMqUs="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.4.zip" sparkle:version="6143" sparkle:shortVersionString="3.0.4" length="14144505" type="application/octet-stream" sparkle:edSignature="083/YcnxZy5J+CNdclhhMNcvEnodOuwxwiDAFqDxTIN/Pc09QTy8wkODXOG6Q4eGyim5sm3RZpD/j3VkINWhCA==" sparkle:dsaSignature="MCwCFCgk1PfVK3aD9kfgNxTTL+j3Lu0sAhRD8S2C/8S99Xh8AzY4oAuw/lzyYg=="/>
+<description><![CDATA[<p>3.0.4</p>
+<p style="padding-left: 30px;">- Bug fixes</p>]]></description>
 </item>
 
 <item>
@@ -48,6 +49,22 @@
 <pubDate>Mon, 02 Sep 2019 12:29:01 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.3.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.3.zip" sparkle:version="6086" sparkle:shortVersionString="3.0.3" length="12458568" type="application/octet-stream" sparkle:edSignature="GbDrzhZlMeW0AksWlMaicx1CjiR56XAVXA102rgvVnz/PBZfR//N60yqdmFZKZ7sL0/jbkLgqhiMWEdScRTiDw==" sparkle:dsaSignature="MC0CFQCOQC++HongBchDO5USrZsPD9BvDgIUN2f1GHihgRSUDO1NVNr9saKQYCE="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.3.zip" sparkle:version="6086" sparkle:shortVersionString="3.0.3" length="12458568" type="application/octet-stream" sparkle:edSignature="GbDrzhZlMeW0AksWlMaicx1CjiR56XAVXA102rgvVnz/PBZfR//N60yqdmFZKZ7sL0/jbkLgqhiMWEdScRTiDw==" sparkle:dsaSignature="MC0CFQCb/1KT58ctftB5SkIPO1Tg13U7cQIUJWJo0+MyX35CUcRMdAXe84rsqGw="/>
 </item>
+<item>
+<title>3.0.7</title>
+<pubDate>Thu, 03 Oct 2019 18:15:45 -0700</pubDate>
+<description><![CDATA[<p>3.0.7</p>
+<p style="padding-left: 30px;">- Bug fixes<br /> - Activations should now work on all users of the same computer</p>]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.0.7.zip" sparkle:version="6204" sparkle:shortVersionString="3.0.7" length="14811457" type="application/octet-stream" sparkle:edSignature="oi/X3Rt1wgf0OQ+bgaE8Gb1Ao7CxGtPT9JTbTiubCAv9wf/ma5HN2Q3ri3eQuNpdpscD7HFgwhfDQkvTKR3wAg==" sparkle:dsaSignature="MCwCFHUNVPwsyflZotSUi73QEhfSNqlNAhQ/yjK06kHaEaMM80x8TJKbagW9SA=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6204-6195.delta" sparkle:version="6204" sparkle:shortVersionString="3.0.7" sparkle:deltaFrom="6195" length="637817" type="application/octet-stream" sparkle:edSignature="ZWyBUIbkxxf5bJgQOUuLHVtugU0OWSfH8X7wGQUDe36ZdpFTdFe6NPSl7WSdmvhTt/d2VnkrsAXR3/YatDm6DA==" sparkle:dsaSignature="MCwCFAdABXirLkHiR83SLIgrcNzsNTOoAhQSTf+p9Rqlr6hiHlmXM82JORxKxQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6204-6177.delta" sparkle:version="6204" sparkle:shortVersionString="3.0.7" sparkle:deltaFrom="6177" length="765246" type="application/octet-stream" sparkle:edSignature="6CYlZtyMn6Ii7INYvE8m62vOI2CyxStdSaKLCPNL9nFkkrG6LZbJmInhsVJwqXUPHa2KbW/bC04SB6o7G35mCw==" sparkle:dsaSignature="MC0CFQDGavsaZDoQWy5FZ5L3JO7CqY+g2gIUZ6u7kNcxUajITA3M2sEV0Qy7kKM="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6204-6143.delta" sparkle:version="6204" sparkle:shortVersionString="3.0.7" sparkle:deltaFrom="6143" length="2671862" type="application/octet-stream" sparkle:edSignature="+aX0chMzYEB+VE6vnWYwi53YloD5uU40oxUurN0gxZZhobSmNB6v4nYUvApPJ6/MWZx6n3cWkWzUHmzz0BiyAg==" sparkle:dsaSignature="MC0CFAEoyJ7RCbgxzhQj29IVlt99ljemAhUAhVCmzl5b2N98mMcdmZgXc9zzdQk="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6204-6143.delta" sparkle:version="6204" sparkle:shortVersionString="3.0.7" sparkle:deltaFrom="6143" length="2671862" type="application/octet-stream" sparkle:edSignature="+aX0chMzYEB+VE6vnWYwi53YloD5uU40oxUurN0gxZZhobSmNB6v4nYUvApPJ6/MWZx6n3cWkWzUHmzz0BiyAg==" sparkle:dsaSignature="MC0CFCLg/DAYQz8A6ovJa9opv3JqSWvPAhUAj5yf2J7CEYfUWxuI4VhMw75PahY="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6204-6086.delta" sparkle:version="6204" sparkle:shortVersionString="3.0.7" sparkle:deltaFrom="6086" length="3616452" type="application/octet-stream" sparkle:edSignature="5oTD3FWJuDq0PgOJcufEFGglvDQ4hl9lNzSvgV7h1CzcnwSF7xQnU/hS9r2X5pVEtJ6wrzt5zdsmPqsGxyJ+DQ==" sparkle:dsaSignature="MC0CFHjm42plJ1mZRyFZXb79BbA3wAmCAhUAp8L4g41R7H/VU2Vz+lrf7QZyIvY="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock6204-6067.delta" sparkle:version="6204" sparkle:shortVersionString="3.0.7" sparkle:deltaFrom="6067" length="3658865" type="application/octet-stream" sparkle:edSignature="DpBa1hUSScFrKHiUwtMLjC2o2lf220CBLcieIUdDmx4p/TWDH1P7yGyFjNbviHd9cnaf1fvaIgID316rqa71CA==" sparkle:dsaSignature="MCwCFFRoUt5+FJ23VFw3Z6vsPW9UsOLGAhQ04HmPZwgMdZEFNKLScUvwzTMOdg=="/></sparkle:deltas>
+</item>
+
 </channel></rss>

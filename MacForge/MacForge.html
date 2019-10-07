@@ -1,3 +1,25 @@
+0.12.3
+
+    •   Min macOS version bumped to 10.12
+    •   Application is now notarized
+    •   More fixes for macforge:// not showing package if app was launched by url in some cases
+    •   Share button now copies https:// link to bundle
+    •   Fix crash when double clicking update
+    •   Fix not adding Xcode template
+    •   Fix text on macOS below 10.14 in dark mode
+    •   Fix helper not respecting automatic plugin update preferences
+    •   Fix helper only checking for plugin updates once
+    •   Fix helper not checking for MacForge updates
+    •   Bug fixes
+
+0.12.2
+
+    •   Custom icons now show in bundle view
+    •   Added short transition for showing image previews
+    •   Fix installing bundles by opening them with MacForge
+    •   Purchases will now work on all user accounts for a machine
+    •   Bug fixes
+
 0.12.1
 
     •   Support for macforge:// url scheme
@@ -19,7 +41,7 @@
 
     •   Fix purchaseValidationApp only running on 10.15
     •   Fix Featured view height
-    •   Misc fixes
+    •   Bug fixes
 
 0.11.1
 
@@ -119,16 +141,16 @@
     ⁃   New System Integrity Protection warning 
     ⁃   Removed system component warnings
 
-    •   SIMBLAgent (injector) is now the MacPlusHelper
+    •   SIMBLAgent (injector) is now the MacForgeHelper
     ⁃   Helper is now in charge of injection
     ⁃   Helper automatically tries to load new bundles when main app is closed
     ⁃   Helper checks for bundle updates in background  
     ⁃   Helper can automatically keep bundles up to date
-    ⁃   Plugins won't automatically load if MacPlusHelper isn't open
+    ⁃   Plugins won't automatically load if MacForgeHelper isn't open
     ⁃   Can be run via command line
-    ⁃   ./MacPlusHelper -i BUNDLE_ID ---- injects into specific app
-    ⁃   ./MacPlusHelper -u ---- updates all plugins
-    ⁃   MacPlusHelper is a menubar application
+    ⁃   ./MacForgeHelper -i BUNDLE_ID ---- injects into specific app
+    ⁃   ./MacForgeHelper -u ---- updates all plugins
+    ⁃   MacForgeHelper is a menubar application
 
     •   UI redesign
     ⁃   Redesigned to resemble Mojave App Store
@@ -147,7 +169,7 @@
 
     •   System view
     ⁃   Removed SIMBL info
-    ⁃   Added MacPlus info
+    ⁃   Added MacForge info
     ⁃   Revised Blacklist view
 
     •   About view

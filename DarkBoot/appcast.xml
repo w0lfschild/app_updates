@@ -11,28 +11,35 @@
 <title>6.0.3</title>
 <pubDate>Tue, 29 May 2018 14:18:58 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-<enclosure url="DarkBoot_6.1.0.zip" sparkle:version="130" sparkle:shortVersionString="6.0.3" length="6143359" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCOdC4zv+anmusCFVRRCBo5tI6gJAIVAKfyk0wfYUKjQWNtcAAGKQ5TrJC2"/>
+<enclosure url="DarkBoot_6.1.0.zip" sparkle:version="130" sparkle:shortVersionString="6.0.3" length="6143359" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCDW6kKHX5xdwAELdtLRM7a8lSS6AIUJw8eCFJdRrio6gpYy4hCbw7BaQA="/>
 </item>
 
 <item>
 <title>6.0.2</title>
 <pubDate>Tue, 29 May 2018 04:32:15 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-<enclosure url="DarkBoot_6.0.2.zip" sparkle:version="129" sparkle:shortVersionString="6.0.2" length="6143369" type="application/octet-stream" sparkle:dsaSignature="MCwCFEQMlrf2g71ml//wwMoZXhxKHfbdAhQineGwUC0FPFXPFxUvB5NzYkJzlw=="/>
+<enclosure url="DarkBoot_6.0.2.zip" sparkle:version="129" sparkle:shortVersionString="6.0.2" length="6143369" type="application/octet-stream" sparkle:dsaSignature="MC0CFQC1MYgS6lYdLMdJT0WUzMwEUvcZjAIUYydkS+FMkgljxFSzUWOsLG+M3oE="/>
 </item>
 
 <item>
 <title>6.0.1</title>
 <pubDate>Tue, 29 May 2018 01:09:52 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-<enclosure url="DarkBoot_6.0.1.zip" sparkle:version="128" sparkle:shortVersionString="6.0.1" length="6139335" type="application/octet-stream" sparkle:dsaSignature="MC0CFExzpV3l//d4wUInU4XSeOwXeAM2AhUAg2H5BaU/3eKac5tcoRh7LMKVwJw="/>
+<enclosure url="DarkBoot_6.0.1.zip" sparkle:version="128" sparkle:shortVersionString="6.0.1" length="6139335" type="application/octet-stream" sparkle:dsaSignature="MCwCFCBMawjsGmYIlGe9Ork/Q3+UOB9pAhR1jjH315iam6UVH05iKFO6DOR/GA=="/>
 </item>
 
 <item>
 <title>5.2.0</title>
 <pubDate>Sun, 05 Feb 2017 18:40:47 -0800</pubDate>
 <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-<enclosure url="DarkBoot_5.2.0.zip" sparkle:version="126" sparkle:shortVersionString="5.2.0" length="2294958" type="application/octet-stream" sparkle:dsaSignature="MCwCFCaUYwEEr4MByrs7ndQLxB8ds/LqAhQ40uh9jES8N2iKx+GXtznN5EIROQ=="/>
+<enclosure url="DarkBoot_5.2.0.zip" sparkle:version="126" sparkle:shortVersionString="5.2.0" length="2294958" type="application/octet-stream" sparkle:dsaSignature="MCwCFC3y/5Y52x90ZF+P7VWXHJMviJixAhQIYylttAKI2F+kdR/tmyuZ/AZwVA=="/>
 </item>
+<item>
+<title>7.0.1</title>
+<pubDate>Sat, 14 Dec 2019 21:15:50 -0800</pubDate>
+<sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_7.0.1.zip" sparkle:version="222" sparkle:shortVersionString="7.0.1" length="6563766" type="application/octet-stream" sparkle:edSignature="gb5Qzvot4xutHd5NnNa5gdh//7hSH4XN5JFaKdQwJW+6ET/cSqyr0W0uGqXOPV9x/UR0+PKZSZ9js/z9YO0iDQ==" sparkle:dsaSignature="MC4CFQCC9wtdWxeF/O+A0XaxPGNBlrOsqQIVAJMeWSjAPPJ/nyewpHZwx1aLLBZX"/>
+</item>
+
 
 </channel></rss>

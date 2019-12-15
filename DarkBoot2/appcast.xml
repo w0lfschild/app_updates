@@ -7,4 +7,11 @@
 <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_7.0.1.zip" sparkle:version="69" sparkle:shortVersionString="5.0.1" length="6563766" type="application/octet-stream" sparkle:edSignature="gb5Qzvot4xutHd5NnNa5gdh//7hSH4XN5JFaKdQwJW+6ET/cSqyr0W0uGqXOPV9x/UR0+PKZSZ9js/z9YO0iDQ==" sparkle:dsaSignature="MCwCFHJLmdd0teKBCvPdUk0Yy7oTRFomAhQU7FJh6cle3f/AJ3/9qPZOJ/DkJQ=="/>
 </item>
+<item>
+<title>7.0.1</title>
+<pubDate>Sat, 14 Dec 2019 21:15:50 -0800</pubDate>
+<sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_7.0.1.zip" sparkle:version="222" sparkle:shortVersionString="7.0.1" length="6563766" type="application/octet-stream" sparkle:edSignature="gb5Qzvot4xutHd5NnNa5gdh//7hSH4XN5JFaKdQwJW+6ET/cSqyr0W0uGqXOPV9x/UR0+PKZSZ9js/z9YO0iDQ==" sparkle:dsaSignature="MC0CFQCme1vvIRoK6BopBB6nqJxtIeuThQIUJr9lr311JdJWxVNdb0zruEw2t9w="/>
+</item>
+
 </channel></rss>

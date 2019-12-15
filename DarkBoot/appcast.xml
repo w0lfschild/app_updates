@@ -118,28 +118,28 @@
 <title>6.0.3</title>
 <pubDate>Tue, 29 May 2018 14:18:58 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-<enclosure url="DarkBoot_6.1.0.zip" sparkle:version="130" sparkle:shortVersionString="6.0.3" length="6143359" type="application/octet-stream" sparkle:dsaSignature="MC0CFHUgwfSVg8aZGwVZ7f3JPLGxpJfTAhUAho3V1zb1BiXjZK42YJN4NjIPEbU="/>
+<enclosure url="DarkBoot_6.1.0.zip" sparkle:version="130" sparkle:shortVersionString="6.0.3" length="6143359" type="application/octet-stream" sparkle:dsaSignature="MCwCFAGA0TfjC6rm6dzfsSmUzQtshH1pAhRX07KiQZrgVbzab9E7XNzuCy27Tw=="/>
 </item>
 
 <item>
 <title>6.0.2</title>
 <pubDate>Tue, 29 May 2018 04:32:15 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-<enclosure url="DarkBoot_6.0.2.zip" sparkle:version="129" sparkle:shortVersionString="6.0.2" length="6143369" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCLTeCkKk2wCHFFR09pbJZG0NZ/2wIVAIuWCTQPUUXIbZa8q4PN2y4Lzqbs"/>
+<enclosure url="DarkBoot_6.0.2.zip" sparkle:version="129" sparkle:shortVersionString="6.0.2" length="6143369" type="application/octet-stream" sparkle:dsaSignature="MC0CFC+Yj3ZRRfIPrGYjNe2B5NrCm37WAhUArELb2bmnvm2q7MXNBxI8L7oUchA="/>
 </item>
 
 <item>
 <title>6.0.1</title>
 <pubDate>Tue, 29 May 2018 01:09:52 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-<enclosure url="DarkBoot_6.0.1.zip" sparkle:version="128" sparkle:shortVersionString="6.0.1" length="6139335" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCJNEn5J0RJma5bZ9AZIAxAp6ozwQIVAMNsDOsQhuxruGLPIVj+FMEJ2zhP"/>
+<enclosure url="DarkBoot_6.0.1.zip" sparkle:version="128" sparkle:shortVersionString="6.0.1" length="6139335" type="application/octet-stream" sparkle:dsaSignature="MCwCFHnryNrGN8CPbOcFBm3dqJHSEuN/AhQPHtb+4Mhbuw3mGdwX4c4enHCkCA=="/>
 </item>
 
 <item>
 <title>5.2.0</title>
 <pubDate>Sun, 05 Feb 2017 18:40:47 -0800</pubDate>
 <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-<enclosure url="DarkBoot_5.2.0.zip" sparkle:version="126" sparkle:shortVersionString="5.2.0" length="2294958" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCAu3xpVua2/sdvkmKHLZn+NSKu2gIVAKxCJnTkcL1yMztIWR2tXjO7kYsw"/>
+<enclosure url="DarkBoot_5.2.0.zip" sparkle:version="126" sparkle:shortVersionString="5.2.0" length="2294958" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCrj76Ibrxh0mP2eWyVQfgPNJejGwIVAJsEr1Rqa8pahnkK0cxHg98ypaqw"/>
 </item>
 
   </channel>

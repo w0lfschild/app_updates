@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
 		<title>Flashlight Changelog</title>
 		<link>https://github.com/w0lfschild/app_updates/raw/master/Flashlight/appcast.xml</link>
@@ -7,51 +6,39 @@
 		<language>en</language>
         <item>
             <title>Version 1.1.0</title>
-            <sparkle:releaseNotesLink>http://flashlightupdates.42pag.es/1.1.0</sparkle:releaseNotesLink>
             <pubdate>Sat, 17 Mar 2018 20:27:11 +0000</pubdate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.1.0.zip"
-                sparkle:version="63"
-                sparkle:shortVersionString="1.1.0"
-                type="application/octet-stream"
-                sparkle:dsaSignature="MC4CFQCAgaT3pUEep8LAcXPK/xqLl636gQIVAJilS6EQCTLu7iWbcQ9Tq3V7AJy6">
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.1.0.zip" sparkle:version="63" sparkle:shortVersionString="1.1.0" length="9559013" type="application/octet-stream" sparkle:dsaSignature="MCwCFB9VSeE1UpDg7CHQeGYH5ym/dbTYAhQH3RDF/1f5TTstDcxbwZ2aNCxuFw==">
                 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
             </enclosure>
+<pubDate>Sat, 03 Nov 2018 13:56:59 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.0.8</title>
-            <sparkle:releaseNotesLink>http://flashlightupdates.42pag.es/1.0.8</sparkle:releaseNotesLink>
             <pubdate>Sat, 17 Mar 2018 20:27:11 +0000</pubdate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.8.zip"
-                sparkle:version="62"
-                sparkle:shortVersionString="1.0.8"
-                type="application/octet-stream"
-                sparkle:dsaSignature="MC0CFQC5esFOWjGSVE9A1pggiXEQc8Vu5QIUFLX0jwdTrSnJRosTt1sagvwbHXE=">
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.8.zip" sparkle:version="62" sparkle:shortVersionString="1.0.8" length="9557605" type="application/octet-stream" sparkle:dsaSignature="MC0CFHhqo0Bg9hfYtO/wBnX4d+sHP0hbAhUAj07GRVwzxc4/V1wZsMkCgFVXdqE=">
                 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
             </enclosure>
+<pubDate>Sat, 17 Mar 2018 12:14:29 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.0.6</title>
-            <sparkle:releaseNotesLink>http://flashlightupdates.42pag.es/1.0.6</sparkle:releaseNotesLink>
             <pubdate>Sat, 25 Jun 2017 20:27:11 +0000</pubdate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.6.zip"
-                sparkle:version="60"
-                sparkle:shortVersionString="1.0.6"
-                type="application/octet-stream"
-                sparkle:dsaSignature="MC0CFHVsDVIDMMriK3rJYrhL/hiVyGakAhUAokVNEvNB9UtcDwaCL2lgfrNeR80=">
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.6.zip" sparkle:version="60" sparkle:shortVersionString="1.0.6" length="9488105" type="application/octet-stream" sparkle:dsaSignature="MC0CFE3Iz1YGfvPQ4exT+hV99X05tbqTAhUAm3ekgvfsA9WttvnhhkC9Cscbm5k=">
                 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
             </enclosure>
+<pubDate>Sat, 08 Apr 2017 23:58:49 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.0.4</title>
-            <sparkle:releaseNotesLink>http://flashlightupdates.42pag.es/1.0.4</sparkle:releaseNotesLink>
             <pubdate>Sat, 25 Jun 2015 20:27:11 +0000</pubdate>
-            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.4.zip"
-                sparkle:version="54"
-                sparkle:shortVersionString="1.0.4"
-                type="application/octet-stream"
-                sparkle:dsaSignature="MC0CFBUgFU63WAeCR22zQqRinEVIlHgVAhUAmOWvbeNi9lgceyXZQo9PXYrt5ro=">
+            <enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.0.4.zip" sparkle:version="54" sparkle:shortVersionString="1.0.4" length="8847515" type="application/octet-stream" sparkle:dsaSignature="MCwCFFSRVT9agvYDFnUjQbPENdinfLPsAhR6yyTVVPD+BpZXAYTbuN5tuuFzPg==">
                 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
             </enclosure>
+<pubDate>Fri, 24 Jun 2016 22:10:24 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
         </item>
 		<item>
 			<title>Version 1.0.1</title>
@@ -285,5 +272,17 @@
 				<sparkle:minimumsystemversion>10.10</sparkle:minimumsystemversion>
 			</enclosure>
 		</item>
+<item>
+<title>1.2.0</title>
+<pubDate>Tue, 31 Dec 2019 15:55:59 -0800</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight_1.2.0.zip" sparkle:version="69" sparkle:shortVersionString="1.2.0" length="3273759" type="application/octet-stream" sparkle:dsaSignature="MCwCFGOxc6xfhwL1kjJJTRNVUkhvdos4AhRoxhZKTOg0ybqyRTD64uu0oHXrpw=="/>
+<sparkle:deltas>
+<enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight69-63.delta" sparkle:version="69" sparkle:shortVersionString="1.2.0" sparkle:deltaFrom="63" length="2177739" type="application/octet-stream" sparkle:dsaSignature="MCwCFHyO+9BwuLJLb+5LGuGLoxyPyUypAhQH0rOr0rAANYXFVVXljwpN7/FuBg=="/>
+<enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight69-62.delta" sparkle:version="69" sparkle:shortVersionString="1.2.0" sparkle:deltaFrom="62" length="2184260" type="application/octet-stream" sparkle:dsaSignature="MC0CFCeGywqelg2Ge12UEaDbzahVhgvXAhUAplBqMARGKBnakgojiqvZDBSBjfw="/>
+<enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight69-60.delta" sparkle:version="69" sparkle:shortVersionString="1.2.0" sparkle:deltaFrom="60" length="2218932" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCZg2CjNYeG7ZMle1Vl0T0ilDQ+AwIUPMkA5FjhLJhi19ZictfEUtj1ATw="/>
+<enclosure url="https://github.com/w0lfschild/app_updates/raw/master/Flashlight/Flashlight69-54.delta" sparkle:version="69" sparkle:shortVersionString="1.2.0" sparkle:deltaFrom="54" length="2408340" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCwTobxjhH1wmuiHZp3j2yzimPLagIUKW2t1qk4tovdmqmSpfa9xq0U5Tc="/></sparkle:deltas>
+</item>
+
 	</channel>
 </rss>

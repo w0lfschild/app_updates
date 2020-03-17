@@ -3,8 +3,7 @@
 _path=$(dirname "$0")
 _root=$(dirname $_path)
 _file="${_path##*/}"
-_hdir="~/Library/Mobile Documents/com~apple~CloudDocs/dsa_priv.pem"
-eval _hdir=$_hdir
+_hdir="$HOME/Library/Mobile Documents/com~apple~CloudDocs/dsa_priv.pem"
 
 # Update appcast
 "$_root"/bin/generate_appcast "$_hdir" "$_path"

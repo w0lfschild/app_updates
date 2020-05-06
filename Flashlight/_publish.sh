@@ -5,7 +5,7 @@ _root=$(dirname $_path)
 _file="${_path##*/}"
 
 # Update appcast
-"$_root"/bin/generate_appcast "/Users/w0lf/Library/Mobile Documents/com~apple~CloudDocs/dsa_priv.pem" "$_path"
+"$_root"/bin/generate_appcast "$HOME/Library/Mobile Documents/com~apple~CloudDocs/dsa_priv.pem" "$_path"
 
 # Push to GitHub
 cd "$_path"

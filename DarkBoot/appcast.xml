@@ -38,7 +38,7 @@
 <title>7.0.1</title>
 <pubDate>Sat, 14 Dec 2019 21:15:50 -0800</pubDate>
 <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_7.0.1.zip" sparkle:version="222" sparkle:shortVersionString="7.0.1" length="6469042" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCZgi8u2oTkiNx1bU0dtciuogqXoAIUHU1VRvJNJl+zlnHdrY40XX9xEPk="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_7.0.1.zip" sparkle:version="222" sparkle:shortVersionString="7.0.1" length="6469042" type="application/octet-stream" sparkle:dsaSignature="MC0CFBCx4lPI5StEZRW8guRGyEGiiufbAhUAm5vbLiOhs+Pd64Erglj7rpCNHKI="/>
 </item>
 <item>
 <title>8.0.1</title>
@@ -52,9 +52,9 @@
 <title>8.0.1</title>
 <pubDate>Wed, 06 May 2020 15:54:07 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_master.zip" sparkle:version="233" sparkle:shortVersionString="8.0.1" length="6532778" type="application/octet-stream" sparkle:edSignature="cIy5mBAaPzx4qMc8m5vVQM85wSQT/Q2BQ4ElnADAb/fbLCL8/L7fk9KIZLCpL181yoWvj+Ski+bkyPzg5DBKCg==" sparkle:dsaSignature="MC0CFAhJqwIkqOjXY2RIWEF15a/13x5LAhUArB+dZiUntomuaaiLaRDMXrAFJ68="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_master.zip" sparkle:version="233" sparkle:shortVersionString="8.0.1" length="6680407" type="application/octet-stream" sparkle:edSignature="+KnVVW0NzIq5Esj/+cpc0hfha04i8Hk/tf19N6U5E6IgjzlfCQUurXoYGqvkRFwu3+IxSGqFdOEmeWzozqGVBg==" sparkle:dsaSignature="MC0CFBG9qBungODEjZreE4MgG9nyuh5+AhUAnB41kLvYYnDTJDICFJhw5EDxpnA="/>
 <sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/Dark%20Boot233-222.delta" sparkle:version="233" sparkle:shortVersionString="8.0.1" sparkle:deltaFrom="222" length="1224607" type="application/octet-stream" sparkle:edSignature="P93ZZsHlcwhRKCbRlxT/7Bg/X8tqE8PjY6TSGD+egZdDjw+dA4k+HuhoWIW0sc2xC/2gQryj+QyVLicMuNBiCQ==" sparkle:dsaSignature="MC4CFQCMOXgeZb0+YGWVHMKU9nOxxS781AIVAI/nCZbrlgATh6t6/kE6jSWQ5CbT"/></sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/Dark%20Boot233-222.delta" sparkle:version="233" sparkle:shortVersionString="8.0.1" sparkle:deltaFrom="222" length="1224607" type="application/octet-stream" sparkle:edSignature="P93ZZsHlcwhRKCbRlxT/7Bg/X8tqE8PjY6TSGD+egZdDjw+dA4k+HuhoWIW0sc2xC/2gQryj+QyVLicMuNBiCQ==" sparkle:dsaSignature="MCwCFD21FfSXk7iHP6EvkpuT2nnPc8dPAhQf65d3Tm2ikD0a205lHnwl5iPjow=="/></sparkle:deltas>
 </item>
 
 

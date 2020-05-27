@@ -99,7 +99,7 @@
 <item>
 <title>3.1.2</title>
 <pubDate>Tue, 17 Mar 2020 02:06:48 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
 
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock3/cDock.3.1.2.zip" sparkle:version="6884" sparkle:shortVersionString="3.1.2" length="14709851" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCuMvqnvEtR7qdDJPYZ8tXDlPEKIQIUUmhpxC4Cqzz82/uVWVyf+kgVsLs="/>
 <sparkle:deltas>

@@ -8,6 +8,7 @@
 
 	- Cool new stuff]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.zip" sparkle:version="7456" sparkle:shortVersionString="4.0.2" length="13346953" type="application/octet-stream" sparkle:edSignature="ZTHlMwLFhbdYUoc3fqtvQcdMPPTXdm6xnuJlRYftp9teVwfckKYhdsCfzp6TT+iHVg+VKaSyl4J0/mu+gf9mCw=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.zip" sparkle:version="7456" sparkle:shortVersionString="4.0.2" length="13346840" type="application/octet-stream" sparkle:edSignature="T7eBI3Hp1VrcOzw8FTB8RRxjsWU+oYo0znE4+XskvJz91vY2cUk+MACTXkismpyIGuwq5fQmINCjD91b+pJ1Dw=="/>
+<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.html</sparkle:releaseNotesLink>
 </item>
 </channel></rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>color</key>
+		<string>212224</string>
+		<key>icon</key>
+		<string>https://macupdater.net/cgi-bin/icons/app.todeska.Todeska.png</string>
+		<key>homepage</key>
+		<string>https://www.todeska.app/</string>
+		<key>name</key>
+		<string>Try Todeska</string>
+	</dict>
+	<dict>
+		<key>color</key>
+		<string>4287f5</string>
+		<key>icon</key>
+		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/images/macforge/icon1024.png</string>
+		<key>homepage</key>
+		<string>https://www.macenhance.com/macforge</string>
+		<key>name</key>
+		<string>Try MacForge</string>
+	</dict>
+	<dict>
+		<key>color</key>
+		<string>80848c</string>
+		<key>icon</key>
+		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/images/dboot/icon1024.png</string>
+		<key>homepage</key>
+		<string>https://www.macenhance.com/darkboot</string>
+		<key>name</key>
+		<string>Try Dark Boot</string>
+	</dict>
+</array>
+</plist>

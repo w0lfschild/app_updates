@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>MacForge</title>
+<item>
+<title>1.0.1</title>
+<pubDate>Sun, 09 Aug 2020 16:04:15 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.html</sparkle:releaseNotesLink>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="5794" sparkle:shortVersionString="1.0.1" length="10228937" type="application/octet-stream" sparkle:edSignature="JD8sjNgcSLRCVlv8SVFs1aOiCJcA/RGiOEBWNmLGJSirM6jPZ1SNjWURKx65Je5WbfLKXMvcyiixMgg82QWeBA=="/>
+</item>
+
+<item>
+<title>1.0.1</title>
+<pubDate>Sun, 09 Aug 2020 16:04:15 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_1.0.1.zip" sparkle:version="5794" sparkle:shortVersionString="1.0.1" length="10228937" type="application/octet-stream" sparkle:edSignature="JD8sjNgcSLRCVlv8SVFs1aOiCJcA/RGiOEBWNmLGJSirM6jPZ1SNjWURKx65Je5WbfLKXMvcyiixMgg82QWeBA=="/>
+</item>
+</channel></rss>

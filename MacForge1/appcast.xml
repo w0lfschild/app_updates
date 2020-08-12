@@ -2,26 +2,19 @@
 <channel>
 <title>MacForge</title>
 <item>
-<title>1.0.1</title>
-<pubDate>Sun, 09 Aug 2020 16:04:15 -0700</pubDate>
+<title>1.0.3</title>
+<pubDate>Tue, 11 Aug 2020 23:40:30 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.1.0.1.zip" sparkle:version="5794" sparkle:shortVersionString="1.0.1" length="10228937" type="application/octet-stream" sparkle:edSignature="JD8sjNgcSLRCVlv8SVFs1aOiCJcA/RGiOEBWNmLGJSirM6jPZ1SNjWURKx65Je5WbfLKXMvcyiixMgg82QWeBA=="/>
-</item>
-
-<item>
-<title>1.0.1</title>
-<pubDate>Sun, 09 Aug 2020 16:04:15 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge_1.0.1.zip" sparkle:version="5794" sparkle:shortVersionString="1.0.1" length="10228937" type="application/octet-stream" sparkle:edSignature="JD8sjNgcSLRCVlv8SVFs1aOiCJcA/RGiOEBWNmLGJSirM6jPZ1SNjWURKx65Je5WbfLKXMvcyiixMgg82QWeBA=="/>
-</item>
-<item>
-<title>1.0.2</title>
-<pubDate>Tue, 11 Aug 2020 23:24:19 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.1.0.2.zip" sparkle:version="5795" sparkle:shortVersionString="1.0.2" length="10228994" type="application/octet-stream" sparkle:edSignature="xS5gXqhi8KGNGCxW0mcs0hj83yHCe91iuNHd2xpOKBJw44ardujer3AbdYOdEWRcKbpERgNidFLjRbzxx+joDw=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge1/MacForge.1.0.3.zip" sparkle:version="5799" sparkle:shortVersionString="1.0.3" length="10229002" type="application/octet-stream" sparkle:edSignature="4aaBMHRCtYpQ9T5d5+6CBByff/isTyIKeM6RXIyr+yk+vZb5IXLzTLbLFIbh69QQ8J3qvOOjIQw2gn85ev+eBQ=="/>
 <sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge5795-5794.delta" sparkle:version="5795" sparkle:shortVersionString="1.0.2" sparkle:deltaFrom="5794" length="115345" type="application/octet-stream" sparkle:edSignature="Jgkz9k5ifzK+xq1Z1XMGNWyIjCDI2B/mA841Yv2BS3ZE6p+3HpUs/AhopPHgqZYibUn9tfsC2OLK2d2viZ/2DQ=="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge5795-5794.delta" sparkle:version="5795" sparkle:shortVersionString="1.0.2" sparkle:deltaFrom="5794" length="115345" type="application/octet-stream" sparkle:edSignature="Jgkz9k5ifzK+xq1Z1XMGNWyIjCDI2B/mA841Yv2BS3ZE6p+3HpUs/AhopPHgqZYibUn9tfsC2OLK2d2viZ/2DQ=="/></sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge1/MacForge5799-5794.delta" sparkle:version="5799" sparkle:shortVersionString="1.0.3" sparkle:deltaFrom="5794" length="102747" type="application/octet-stream" sparkle:edSignature="uVSiYzFbDpQLHtiogSTEEzDqidvENfHpZyNZf/tkX4ZzGPELstxijP6yQanbF5sLmPbbWQLIf3EDlLoX0JzAAQ=="/></sparkle:deltas>
 </item>
 
+<item>
+<title>1.0.1</title>
+<pubDate>Tue, 11 Aug 2020 23:40:30 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.html</sparkle:releaseNotesLink>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="5794" sparkle:shortVersionString="1.0.1" length="10229002" type="application/octet-stream" sparkle:edSignature="4aaBMHRCtYpQ9T5d5+6CBByff/isTyIKeM6RXIyr+yk+vZb5IXLzTLbLFIbh69QQ8J3qvOOjIQw2gn85ev+eBQ=="/>
+</item>
 </channel></rss>

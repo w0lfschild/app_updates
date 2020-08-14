@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>DockMate</title>
+<item>
+<title>0.5.1</title>
+<pubDate>Fri, 14 Aug 2020 01:00:52 -0700</pubDate>
+<description><![CDATA[### 0.5.1
+
+-   Fix memory leak
+-   Fix tiles displaying off screen
+-   Smaller minimum tile size
+
+### 0.4.22
+
+-    Progress bar works for iTunes, Spotify, Music apps
+-    Track progress updates over time
+-    Tiles showing when they shouldn't
+-    Podcasts view progress-bar skip to point when clicked / dragged
+-    Podcasts view progress-bar show progress while playing
+-    Music views scrolling title and artist text
+-    Setup Appcenter
+-    Setup Paddle
+-    Setup Sparkle
+-    Setup LetsMove
+-    Make about window
+-    Space transitions
+-    Fade in window
+-    Window drawing over dock
+-    Preview preference settings
+-    Dock icon focus time before showing preview
+-    Hover on preview to show floating "On-screen" preview
+-    Finish General Preferences
+-    Watch for dock restarts
+-    Bug fixes]]></description>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.5.1.zip" sparkle:version="1085" sparkle:shortVersionString="0.5.1" length="3806852" type="application/octet-stream" sparkle:edSignature="CuWEddDg/QQCeBVFkwy3RBMOK8hcC44Z13LiOdlVslNDOBrNIafWuyx7f5ji13oESlxCq8jPCSVSV64kKfvXBw=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate1085-560.delta" sparkle:version="1085" sparkle:shortVersionString="0.5.1" sparkle:deltaFrom="560" length="1313497" type="application/octet-stream" sparkle:edSignature="Gz7XSumpXOXwM49MytPMlividn7L5Yg9u7K5Qg+HIO7PwEsU2oNg1JODiYN3hwZRtWfbAIhFQurc2gX/EdKgDA=="/></sparkle:deltas>
+</item>
+
+<item>
+<title>0.5.1</title>
+<pubDate>Fri, 14 Aug 2020 01:00:52 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.5.1.zip" sparkle:version="1085" sparkle:shortVersionString="0.5.1" length="3806852" type="application/octet-stream" sparkle:edSignature="CuWEddDg/QQCeBVFkwy3RBMOK8hcC44Z13LiOdlVslNDOBrNIafWuyx7f5ji13oESlxCq8jPCSVSV64kKfvXBw=="/>
+</item>
+
+<item>
+<title>0.4.22</title>
+<pubDate>Tue, 16 Jun 2020 23:20:08 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.4.22.zip" sparkle:version="560" sparkle:shortVersionString="0.4.22" length="5922941" type="application/octet-stream" sparkle:edSignature="lW0fHqOqO+gXuz99BzLl3QvAw4clu56NmhWBgnwFfraNpTOQA0kjftsoVVYsK46mVn4pQUfPUU1nblJCEaf5Bw=="/>
+</item>
+</channel></rss>

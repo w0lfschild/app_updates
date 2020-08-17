@@ -15,6 +15,16 @@
 <pubDate>Tue, 11 Aug 2020 23:40:30 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="5794" sparkle:shortVersionString="1.0.1" length="10229002" type="application/octet-stream" sparkle:edSignature="4aaBMHRCtYpQ9T5d5+6CBByff/isTyIKeM6RXIyr+yk+vZb5IXLzTLbLFIbh69QQ8J3qvOOjIQw2gn85ev+eBQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge/MacForge.zip" sparkle:version="5794" sparkle:shortVersionString="1.0.1" length="10229162" type="application/octet-stream" sparkle:edSignature="K7ZKN/iqUDPYEnTFhEig0rzoMLSGgJxPKlccDTs9m0c5H6TWxhCmODJ7UK9sYwGJun8E026kpTlt+yVi17+dBQ=="/>
 </item>
+<item>
+<title>1.0.6</title>
+<pubDate>Mon, 17 Aug 2020 11:57:04 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge1/MacForge.1.0.6.zip" sparkle:version="5805" sparkle:shortVersionString="1.0.6" length="10229162" type="application/octet-stream" sparkle:edSignature="K7ZKN/iqUDPYEnTFhEig0rzoMLSGgJxPKlccDTs9m0c5H6TWxhCmODJ7UK9sYwGJun8E026kpTlt+yVi17+dBQ=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge1/MacForge5805-5799.delta" sparkle:version="5805" sparkle:shortVersionString="1.0.6" sparkle:deltaFrom="5799" length="119132" type="application/octet-stream" sparkle:edSignature="GIzLn0Ba68LF1SsXPf8ENnXkiTJhq3E9IXcicrBEI5xjeHT4eLP78rXBc3jnmt7kAduTpkr3US60H9YVd3fFDA=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/MacForge1/MacForge5805-5794.delta" sparkle:version="5805" sparkle:shortVersionString="1.0.6" sparkle:deltaFrom="5794" length="113058" type="application/octet-stream" sparkle:edSignature="7/EjkN9fHj6GOx6d5TiBgyJ3B50/YmyAfAvqWFwBhetnrj9aI360zLbRH8ymTlh03QJ1SBSi9z4G3wNP1SNBCw=="/></sparkle:deltas>
+</item>
+
 </channel></rss>

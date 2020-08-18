@@ -36,6 +36,7 @@
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.5.1.zip" sparkle:version="1085" sparkle:shortVersionString="0.5.1" length="3806852" type="application/octet-stream" sparkle:edSignature="CuWEddDg/QQCeBVFkwy3RBMOK8hcC44Z13LiOdlVslNDOBrNIafWuyx7f5ji13oESlxCq8jPCSVSV64kKfvXBw=="/>
 <sparkle:deltas>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate1085-560.delta" sparkle:version="1085" sparkle:shortVersionString="0.5.1" sparkle:deltaFrom="560" length="1313497" type="application/octet-stream" sparkle:edSignature="Gz7XSumpXOXwM49MytPMlividn7L5Yg9u7K5Qg+HIO7PwEsU2oNg1JODiYN3hwZRtWfbAIhFQurc2gX/EdKgDA=="/></sparkle:deltas>
+
 </item>
 
 <item>
@@ -51,4 +52,14 @@
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.4.22.zip" sparkle:version="560" sparkle:shortVersionString="0.4.22" length="5922941" type="application/octet-stream" sparkle:edSignature="lW0fHqOqO+gXuz99BzLl3QvAw4clu56NmhWBgnwFfraNpTOQA0kjftsoVVYsK46mVn4pQUfPUU1nblJCEaf5Bw=="/>
 </item>
+<item>
+<title>0.6.1</title>
+<pubDate>Tue, 18 Aug 2020 13:02:14 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.6.1.zip" sparkle:version="1470" sparkle:shortVersionString="0.6.1" length="3828965" type="application/octet-stream" sparkle:edSignature="NWEOcXdeCbS9Pqgdzi3Et42yqK6AxuCsmkEMSjp18cgZwd8Lyf50fSR/d9jXqX2jtq46/8qMDrIDzK8j02YKCA=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate1470-1085.delta" sparkle:version="1470" sparkle:shortVersionString="0.6.1" sparkle:deltaFrom="1085" length="160471" type="application/octet-stream" sparkle:edSignature="jEzp5qwDgKzlk4FkCh3JBZsYCFj74Z1EeQDjKDcaFvRWch/FhFgvUw0syc9bW7NKsoryLVEun4spNYZjnTS4Bw=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate1470-560.delta" sparkle:version="1470" sparkle:shortVersionString="0.6.1" sparkle:deltaFrom="560" length="1340981" type="application/octet-stream" sparkle:edSignature="CBsNuDdP/Oh6+9IrW2qb1JCS+WECVyFEonNI4oZC3JowbvV2s/x8fDBkCN02ca4JACB9oLkY0JTfEN3xIWJ6BA=="/></sparkle:deltas>
+</item>
+
 </channel></rss>

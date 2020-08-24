@@ -1,12 +1,24 @@
-### 0.6.2
+### 0.7.1
 
-- Fix windows displaying wrong space
+-   Privews are now displayed almost instantaneously (0.1 or less seconds even for large numbers of windows 20+)
+-   Better handling of large number of windows
+-   Sort preview windows by Desktop # then Window Title
+-   Fix preview window flickering (redrawing) when moving mouse up from or down to a dock icon
+-   Fix music view missalignment in window
+-   Fix music view not updating if track rolls over while view is showing
+-   Fix electron apps showing blank window if app is minimized 
+    -   Instead shows last known image
+    -   Image will still be blank if the window has not been unhidden since DockMate launched
+-   Fix large preview window not hiding when last window of an app is closed
+-   Fix windows potentially reporting the wrong space
+-   Fix crash when web tab reported no title
+-   Removed tab management from web views
 
 ### 0.6.1
 
-- Major code refactoring
-- Massive speed up of preview display time
-- Fixed memory leaks
+-   Major code refactoring
+-   Massive speed up of preview display time
+-   Fixed memory leaks
 -   Fix crash if music app was closed while displaying view
 -   Chrome and Safari previews now show a tab selector
 

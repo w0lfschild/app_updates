@@ -8,7 +8,7 @@
 
 	- Cool new stuff]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.zip" sparkle:version="7456" sparkle:shortVersionString="4.0.2" length="13337352" type="application/octet-stream" sparkle:edSignature="RHjLX2/Bo9uXde0ME/u/vJQxPdDDsJup8Dd3Y9zBEqpJdFo3nb2cKmGCQHc+UO89PTUG4MVdGbmjSfSRIUnxAA=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.zip" sparkle:version="7456" sparkle:shortVersionString="4.0.2" length="13330784" type="application/octet-stream" sparkle:edSignature="QO0pYARzrAX4ILAGIGbD+eQ02ZbeKDwAmpUf2RGad2OKs06ceZh9rVF2H6dEclIBoCrxPsnu0gP4qXD81TJADQ=="/>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.html</sparkle:releaseNotesLink>
 <sparkle:deltas>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7456-7451.delta" sparkle:version="7456" sparkle:shortVersionString="4.0.2" sparkle:deltaFrom="7451" length="78547" type="application/octet-stream" sparkle:edSignature="GSG3Cs50SRn2LyHFOc99jJo4IrVRsIxCiVT4mcG1R7vgZ5Y9FWbQzXTKyU5XJiNH3924O1vt7vk5kFz5+QOFBA=="/></sparkle:deltas>
@@ -45,6 +45,26 @@
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7492-7475.delta" sparkle:version="7492" sparkle:shortVersionString="4.1.3" sparkle:deltaFrom="7475" length="605991" type="application/octet-stream" sparkle:edSignature="PwnEJyDa3Zpa6GCW/O+iEcmwE8ZrkloMZBK3bXEntHIoZaMKLgxi6nSxkMRJIde/Dbvyi3LX35iC8jtop2U4CQ=="/>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7492-7456.delta" sparkle:version="7492" sparkle:shortVersionString="4.1.3" sparkle:deltaFrom="7456" length="606365" type="application/octet-stream" sparkle:edSignature="mIYOSvcjkFgMRxAYtK0cJ3KBCsPsof/SHSqTDjFOnE5lJN7lKYn0D2G5U0OIizDZJTUAvz+53MfctHt1sqbVBw=="/></sparkle:deltas>
 </item>
+<item>
+<title>4.1.5</title>
+<pubDate>Mon, 24 Aug 2020 11:01:03 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.4.1.5.zip" sparkle:version="7509" sparkle:shortVersionString="4.1.5" length="13330784" type="application/octet-stream" sparkle:edSignature="QO0pYARzrAX4ILAGIGbD+eQ02ZbeKDwAmpUf2RGad2OKs06ceZh9rVF2H6dEclIBoCrxPsnu0gP4qXD81TJADQ=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7509-7492.delta" sparkle:version="7509" sparkle:shortVersionString="4.1.5" sparkle:deltaFrom="7492" length="221339" type="application/octet-stream" sparkle:edSignature="51F4T5Bz2l9By8rv9qloB1ed6f/UQq4zrUY2os90BWyr3WrjSFi3dmRVrDxnf1QHgZ3gIeWctWR6x000uMrtAA=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7509-7483.delta" sparkle:version="7509" sparkle:shortVersionString="4.1.5" sparkle:deltaFrom="7483" length="230698" type="application/octet-stream" sparkle:edSignature="FNnyKuuG5zUiqKXGoibpL9L5/GDdjRl069jZ5HcqR8svv7ije0Q6Xp/OjzKyDw4MQ6pnOArAh7aSv4a9dnLSDQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7509-7456.delta" sparkle:version="7509" sparkle:shortVersionString="4.1.5" sparkle:deltaFrom="7456" length="659969" type="application/octet-stream" sparkle:edSignature="XD0+8LT/gqXbkXNhLBlOu7asb8E408JncT3WY74kThxlBB552AuqjdVqBEhgS1RSlJOg3I1F9UEc5OV0hQPbCQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7509-7475.delta" sparkle:version="7509" sparkle:shortVersionString="4.1.5" sparkle:deltaFrom="7475" length="659284" type="application/octet-stream" sparkle:edSignature="fLX+hMlzALB/Trig421uiGX+t79T8cDVFebCrq8+K7mo6+/epnFmXd9SGYvtq+/NO+D3sXs1WIpmwTljaokFCg=="/></sparkle:deltas>
+<description><![CDATA[### 4.1.5
+
+- Fix recents separator layer modification
+- Fix "Click app Tiles to toggle hiding" on macOS 10.15 and below
+- Fix custom indicators being located higher than previous versions
+- Fix small memory leak with custom icon coloring
+- Code cleanup
+- Minor adjustments]]></description>
+</item>
+
 
 
 

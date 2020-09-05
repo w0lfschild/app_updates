@@ -38,9 +38,9 @@
 		<key>icon</key>
 		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/assets/img/BootBuddy/icon11.png</string>
 		<key>homepage</key>
-		<string>https://www.macenhance.com/darkboot</string>
+		<string>https://www.macenhance.com/bootbuddy</string>
 		<key>name</key>
-		<string>Try Dark Boot</string>
+		<string>Try Boot Buddy</string>
 	</dict>
 </array>
 </plist>

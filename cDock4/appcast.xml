@@ -8,7 +8,7 @@
 
 	- Cool new stuff]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.zip" sparkle:version="7456" sparkle:shortVersionString="4.0.2" length="13330784" type="application/octet-stream" sparkle:edSignature="QO0pYARzrAX4ILAGIGbD+eQ02ZbeKDwAmpUf2RGad2OKs06ceZh9rVF2H6dEclIBoCrxPsnu0gP4qXD81TJADQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.zip" sparkle:version="7456" sparkle:shortVersionString="4.0.2" length="13445417" type="application/octet-stream" sparkle:edSignature="KJ8yJ8+jxkXEU//bcNdJSnv8yGXrcGFWzqKABwrKsJyKv4taOBIACW8SunPOxgCN5etsoZb+zv+2kTiYcb8LBA=="/>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.html</sparkle:releaseNotesLink>
 <sparkle:deltas>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7456-7451.delta" sparkle:version="7456" sparkle:shortVersionString="4.0.2" sparkle:deltaFrom="7451" length="78547" type="application/octet-stream" sparkle:edSignature="GSG3Cs50SRn2LyHFOc99jJo4IrVRsIxCiVT4mcG1R7vgZ5Y9FWbQzXTKyU5XJiNH3924O1vt7vk5kFz5+QOFBA=="/></sparkle:deltas>
@@ -64,6 +64,32 @@
 - Code cleanup
 - Minor adjustments]]></description>
 </item>
+<item>
+<title>4.2.0</title>
+<pubDate>Sat, 05 Sep 2020 23:30:31 -0700</pubDate>
+<description><![CDATA[### 4.2.0
+
+- Fix Contrinuty background hiding
+- Fix crash when refreshing layers if a cached tile was missing
+- Fix crash related to hiding running apps
+- Fix hidden apps sometimes leaving a straggler indicator
+- Fix issue where labels would sometimes show when disabled
+- Fix items added to hiden icon list not appling until dock restart
+- Fix several issues with blurred icon relfections
+- Fix memory leak with blurred icon relfections
+- Fix right click Dock crash on Big Sur Beta 6 (20A5364e)
+- Fix app not auto-retarting dock when a new bundle was installed
+- Minor fixes]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.4.2.0.zip" sparkle:version="7551" sparkle:shortVersionString="4.2.0" length="13445417" type="application/octet-stream" sparkle:edSignature="KJ8yJ8+jxkXEU//bcNdJSnv8yGXrcGFWzqKABwrKsJyKv4taOBIACW8SunPOxgCN5etsoZb+zv+2kTiYcb8LBA=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7551-7509.delta" sparkle:version="7551" sparkle:shortVersionString="4.2.0" sparkle:deltaFrom="7509" length="616265" type="application/octet-stream" sparkle:edSignature="qWMl2LSV2P8AnzyO+cJt16GuXTx36BIgGEcuWishAUVssjo7VQptnPKlSsn1xC4cVYpPo4JoUDGwMm7OOUUaAg=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7551-7492.delta" sparkle:version="7551" sparkle:shortVersionString="4.2.0" sparkle:deltaFrom="7492" length="650466" type="application/octet-stream" sparkle:edSignature="Prp+nendrs1+jcod9tzWsy4ECBJIKob8xCX3DLsDtMS4kCZeLvkyXSpWY09Kx4w2aKIrdjg1Rkmnfu30JXuyBQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7551-7483.delta" sparkle:version="7551" sparkle:shortVersionString="4.2.0" sparkle:deltaFrom="7483" length="661084" type="application/octet-stream" sparkle:edSignature="CXZf+pf7jCzI92sqgb9AVEEdhlBchEPktZK+4brq7hfETDy/42mdXeFe5upUOqpQSoE9SBby5KYfRJUo9lU0CA=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7551-7475.delta" sparkle:version="7551" sparkle:shortVersionString="4.2.0" sparkle:deltaFrom="7475" length="1067086" type="application/octet-stream" sparkle:edSignature="NdA2hz1Sb7dtLIMNn2n1nH1cLLetpMw1fOYLIgHHfQZw7opKF7jPuAzL5w0v4R646bD4W5xOkFe39SAhZsNgBw=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7551-7456.delta" sparkle:version="7551" sparkle:shortVersionString="4.2.0" sparkle:deltaFrom="7456" length="1065338" type="application/octet-stream" sparkle:edSignature="2BVja6QEinW07y4Dl2HDBm2o4gaKwv51yjG5urf3K4XLZery83VtldqGbMfL+TRnQnhWVjgaEdT3oe4e+ko6CA=="/></sparkle:deltas>
+</item>
+
 
 
 

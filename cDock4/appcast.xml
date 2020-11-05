@@ -17,7 +17,8 @@
 <sparkle:deltas>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7509-7492.delta" sparkle:version="7509" sparkle:shortVersionString="4.1.5" sparkle:deltaFrom="7492" length="221350" type="application/octet-stream" sparkle:edSignature="TcWUY+X8hYhJQs1SF15YiyGuH5km8MEAjTTSp6If6nT8kTi7Rn88Hfe+RfhOjrqg1kL9uhe3i5xVZ7U2fo9NBg=="/>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7509-7483.delta" sparkle:version="7509" sparkle:shortVersionString="4.1.5" sparkle:deltaFrom="7483" length="230715" type="application/octet-stream" sparkle:edSignature="bBFxONFzQiniNMalTN6Xf0/6mwYI0V1vtsSEraG+4+1eDrOfrnraatLuRasDsFkkXEsDkSe0K6ewX3TDLELoDQ=="/>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7509-7475.delta" sparkle:version="7509" sparkle:shortVersionString="4.1.5" sparkle:deltaFrom="7475" length="659266" type="application/octet-stream" sparkle:edSignature="MvpqTp14krc6hfq6dAS6JCXdMaaus/AW1LkSgLmtTrPGFGWuxB3enrIYwdEOo94jlUjljBA5LU353DarV9tRCA=="/></sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7509-7475.delta" sparkle:version="7509" sparkle:shortVersionString="4.1.5" sparkle:deltaFrom="7475" length="659266" type="application/octet-stream" sparkle:edSignature="MvpqTp14krc6hfq6dAS6JCXdMaaus/AW1LkSgLmtTrPGFGWuxB3enrIYwdEOo94jlUjljBA5LU353DarV9tRCA=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7509-7456.delta" sparkle:version="7509" sparkle:shortVersionString="4.1.5" sparkle:deltaFrom="7456" length="659929" type="application/octet-stream" sparkle:edSignature="uw30OdHjZG5VVKfiT03zth7XRRi52xonzeEq6NBklr5amKkf7MMq0/lS6jVM0GQZCq5a58xbbAu/2m+bEYVQAw=="/></sparkle:deltas>
 </item>
 
 <item>
@@ -40,4 +41,18 @@
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.4.0.4.zip" sparkle:version="7475" sparkle:shortVersionString="4.0.4" length="13347298" type="application/octet-stream" sparkle:edSignature="3rhErFYG0FAkV8AryqNg97TxkDlqZtRp6a6dCMejVe1DIGOs/Qrn55n/gilKGu7FsvlzAFD2whwCF8hXyN44Cg=="/>
 </item>
+<item>
+<title>4.4.3</title>
+<pubDate>Thu, 05 Nov 2020 15:06:03 -0800</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.4.4.3.html</sparkle:releaseNotesLink>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock.4.4.3.zip" sparkle:version="7780" sparkle:shortVersionString="4.4.3" length="13057967" type="application/octet-stream" sparkle:edSignature="Adg4QkY6/At791hZIcKyF6WvPENPncaZ4km0hjri1YsyTVLyQknqNeVyqXzBghoWAxKSDtPBePkzF9tj+SFrCA=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7780-7509.delta" sparkle:version="7780" sparkle:shortVersionString="4.4.3" sparkle:deltaFrom="7509" length="1358220" type="application/octet-stream" sparkle:edSignature="x4Uyi/ZJYTxDd+bbaY2D9tVh79RLc41ITmSZEeXEhq6t/nf7Jv5OUNhAz7NYjw91WXuPxG9/6/HWHnMSQvROAQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7780-7492.delta" sparkle:version="7780" sparkle:shortVersionString="4.4.3" sparkle:deltaFrom="7492" length="1369946" type="application/octet-stream" sparkle:edSignature="z0zseR3UmuV0X5lIQY2rJr3B526tPAA56bmoEVHRPivgTVXY+ThUXYwkObpygfdVeqtp+VWNo81mbQQbumS1Ag=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7780-7483.delta" sparkle:version="7780" sparkle:shortVersionString="4.4.3" sparkle:deltaFrom="7483" length="1369752" type="application/octet-stream" sparkle:edSignature="KfOhLm7BMgskqnLC1QHXhmK0RKNLVuYa4xr5BmnBEspHhnhFo9eEcF8U1ftz7V+qDwt6183Hq3bcYGXHcDw8Bw=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7780-7475.delta" sparkle:version="7780" sparkle:shortVersionString="4.4.3" sparkle:deltaFrom="7475" length="1598569" type="application/octet-stream" sparkle:edSignature="/kslLlXvN7/j9FW9eE5wC+kFByoMtx7cJbp/H3sMysn8yszev2lnJbGrIgHISiBHz1HqHHkbWt5xHI2IyszTBw=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock4/cDock7780-7456.delta" sparkle:version="7780" sparkle:shortVersionString="4.4.3" sparkle:deltaFrom="7456" length="1599941" type="application/octet-stream" sparkle:edSignature="fXP/tvPFvLIKUq+ofg+cz8fOWk6H/IwTFvkifrIE7G1RQOJkSUVPX+x7kKsFVACsxJd23JVO3p+QbkO7h/vADA=="/></sparkle:deltas>
+</item>
+
 </channel></rss>

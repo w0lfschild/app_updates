@@ -40,24 +40,5 @@
 <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_7.0.1.zip" sparkle:version="222" sparkle:shortVersionString="7.0.1" length="6469042" type="application/octet-stream" sparkle:dsaSignature="MC0CFB8q0/f7gAegOYuLZwM2TyeabNmZAhUAj/LdAk7u5OJ2BHXoNlX+1ljh4SQ="/>
 </item>
-<item>
-<title>8.0.1</title>
-<pubDate>Wed, 06 May 2020 15:32:36 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_8.0.1.zip" sparkle:version="232" sparkle:shortVersionString="8.0.1" length="6532778" type="application/octet-stream" sparkle:dsaSignature="MCwCFG+9jnzPcP3CMttZzpG+CwME+r1XAhR1oAIIYwNvCPKeb+oHy2iCUFnCGA=="/>
-<sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/Dark%20Boot232-222.delta" sparkle:version="232" sparkle:shortVersionString="8.0.1" sparkle:deltaFrom="222" length="1224728" type="application/octet-stream" sparkle:edSignature="cmP6k8+L5Jv7UyOMB0kGGbnE1K8LssntJVFiL0SZXFmTOrFCF5Nbdaf21DkSQutN+NAAW87dc1Az7bC2Rz0GBw==" sparkle:dsaSignature="MC4CFQCoP+TNTCvyoqfar3w7KipDeZiQUwIVAKOKpjshl7mzLlu4AF7CUmD6p1wc"/></sparkle:deltas>
-</item>
-<item>
-<title>8.0.1</title>
-<pubDate>Wed, 06 May 2020 15:54:07 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/DarkBoot_master.zip" sparkle:version="233" sparkle:shortVersionString="8.0.1" length="6680407" type="application/octet-stream" sparkle:dsaSignature="MCwCFEHaKXz11hQXFvuxwCmaRVqyyD+yAhRPvSuouvRef3zjPJ1rYJLvMT6zhA=="/>
-<sparkle:deltas>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DarkBoot/Dark%20Boot233-222.delta" sparkle:version="233" sparkle:shortVersionString="8.0.1" sparkle:deltaFrom="222" length="1224607" type="application/octet-stream" sparkle:edSignature="WTl2pm+wMtVocIdjlkNoY/NyiHvDZHR2ZJczYUj6TkmbHO/jbfiqRnWS+DblrLksRhtW7qysCmQTmJ4dwYkoDQ==" sparkle:dsaSignature="MC0CFQC2H1zEdVB9KlracuaziE6PRmaeogIUGDj5MN3G8kXDADM6k5q+HHODzZY="/></sparkle:deltas>
-</item>
-
-
-
 
 </channel></rss>

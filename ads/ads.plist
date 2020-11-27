@@ -4,13 +4,23 @@
 <array>
 	<dict>
 		<key>color</key>
+		<string>80848c</string>
+		<key>icon</key>
+		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/assets/img/apps/cdock/icon11.png</string>
+		<key>homepage</key>
+		<string>https://www.macenhance.com/cdock</string>
+		<key>name</key>
+		<string>Try cDock</string>
+	</dict>
+	<dict>
+		<key>color</key>
 		<string>c203fc</string>
 		<key>icon</key>
-		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/assets/img/DockMate/icon11.png</string>
+		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/assets/img/apps/dockmate/icon11.png</string>
 		<key>homepage</key>
 		<string>https://www.macenhance.com/dockmate</string>
 		<key>name</key>
-		<string>Try Dock Mate</string>
+		<string>Try DockMate</string>
 	</dict>
 	<dict>
 		<key>color</key>
@@ -26,7 +36,7 @@
 		<key>color</key>
 		<string>4287f5</string>
 		<key>icon</key>
-		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/assets/img/MacForge/icon11.png</string>
+		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/assets/img/apps/macforge/icon11.png</string>
 		<key>homepage</key>
 		<string>https://www.macenhance.com/macforge</string>
 		<key>name</key>
@@ -36,11 +46,11 @@
 		<key>color</key>
 		<string>80848c</string>
 		<key>icon</key>
-		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/assets/img/BootBuddy/icon11.png</string>
+		<string>https://github.com/w0lfschild/w0lfschild.github.io/raw/master/assets/img/apps/bootbuddy/icon11.png</string>
 		<key>homepage</key>
 		<string>https://www.macenhance.com/bootbuddy</string>
 		<key>name</key>
-		<string>Try Boot Buddy</string>
+		<string>Try BootBuddy</string>
 	</dict>
 </array>
 </plist>

@@ -6,7 +6,7 @@
 <pubDate>Fri, 26 Feb 2021 21:53:41 -0800</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.8.2.html</sparkle:releaseNotesLink>
-<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.8.2.zip" sparkle:version="2730" sparkle:shortVersionString="0.8.2" length="5367089" type="application/octet-stream" sparkle:edSignature="Ii6wyLeH0+II+dgZaAUHu1U/rhiRRwiXlw7qASASY6zi7uSIo5dWhMjVoa2jA7Dr1ImrVfIS7ZcZyuEBQ3CtCw=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.zip" sparkle:version="2730" sparkle:shortVersionString="0.8.2" length="5369651" type="application/octet-stream" sparkle:edSignature="1OMkQhykHD1eFQR6JvHWPo4BJw7ZHnlUC4ux/6bju+auZnUqvlbY5oj9NO4kzrAINMzM3wzb13GjDzkR/6llDg=="/>
 </item>
 
 <item>
@@ -37,4 +37,19 @@
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.5.1.zip" sparkle:version="1085" sparkle:shortVersionString="0.5.1" length="3806852" type="application/octet-stream" sparkle:edSignature="CuWEddDg/QQCeBVFkwy3RBMOK8hcC44Z13LiOdlVslNDOBrNIafWuyx7f5ji13oESlxCq8jPCSVSV64kKfvXBw=="/>
 </item>
+<item>
+<title>0.8.3</title>
+<pubDate>Sun, 28 Feb 2021 11:42:39 -0800</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.8.3.html</sparkle:releaseNotesLink>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.8.3.zip" sparkle:version="2731" sparkle:shortVersionString="0.8.3" length="5369651" type="application/octet-stream" sparkle:edSignature="1OMkQhykHD1eFQR6JvHWPo4BJw7ZHnlUC4ux/6bju+auZnUqvlbY5oj9NO4kzrAINMzM3wzb13GjDzkR/6llDg=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate2731-2730.delta" sparkle:version="2731" sparkle:shortVersionString="0.8.3" sparkle:deltaFrom="2730" length="163603" type="application/octet-stream" sparkle:edSignature="yH1EpS6hBC/dDIPRTldzMZFNxJX/+JulBl5PhQxpwXgt5H9ip7pjvvV3EfY7EFgWdK5r6KBy5npt7y7iIuuBDQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate2731-2730.delta" sparkle:version="2731" sparkle:shortVersionString="0.8.3" sparkle:deltaFrom="2730" length="163603" type="application/octet-stream" sparkle:edSignature="yH1EpS6hBC/dDIPRTldzMZFNxJX/+JulBl5PhQxpwXgt5H9ip7pjvvV3EfY7EFgWdK5r6KBy5npt7y7iIuuBDQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate2731-1930.delta" sparkle:version="2731" sparkle:shortVersionString="0.8.3" sparkle:deltaFrom="1930" length="2676614" type="application/octet-stream" sparkle:edSignature="yp+9BxGH0Akh7GSdeyAgqP9geXeeZ31q27RAJTEIWnhkU0JiLoaYPSTKEp3dgBsDgIMy0k/E/jjOQMyzVYOjAA=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate2731-1470.delta" sparkle:version="2731" sparkle:shortVersionString="0.8.3" sparkle:deltaFrom="1470" length="2693428" type="application/octet-stream" sparkle:edSignature="sb3gPeC2XBpG/Gu6HB90ydRibB4Akewja/Za92GO0Ym4DpiYgFJg9D/pDWsT8yeFdYu9Dj/JImbGMDX54gsNBQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate2731-1085.delta" sparkle:version="2731" sparkle:shortVersionString="0.8.3" sparkle:deltaFrom="1085" length="2696815" type="application/octet-stream" sparkle:edSignature="CFvULiLbaBKmIYyt5ef5JJWTx8V86GwN1d48dayh93Wy7LulALipDmsOBJ6suSXHt9MSCucKSPMkyeXAuV44CQ=="/>
+<enclosure url="https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate2731-560.delta" sparkle:version="2731" sparkle:shortVersionString="0.8.3" sparkle:deltaFrom="560" length="3758120" type="application/octet-stream" sparkle:edSignature="e2yQzLnKcXdnrScEJ4WWaoC3NBV7o6eY43k9YPYk97hxynNdDTebAsS0/pUfJd37K83+sIlqnMFi1N/FLr5xAQ=="/></sparkle:deltas>
+</item>
+
 </channel></rss>
